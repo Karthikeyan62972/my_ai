@@ -1,0 +1,115 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root { 
+  height: 100%; 
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+body { 
+  @apply bg-ink text-slate-100; 
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.card { 
+  @apply bg-card/80 backdrop-blur-sm rounded-2xl p-4 shadow-lg border border-white/5;
+  position: relative;
+}
+
+.kpi { 
+  @apply card flex flex-col items-start gap-1 relative overflow-hidden;
+  min-height: 120px;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(15, 23, 42, 0.3);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.3);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(148, 163, 184, 0.5);
+}
+
+/* Smooth animations */
+* {
+  transition: all 0.2s ease-in-out;
+}
+
+/* Glass morphism effects */
+.glass {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Gradient text */
+.gradient-text {
+  background: linear-gradient(135deg, #22d3ee 0%, #3b82f6 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Fix for layout gaps */
+.flex-1 {
+  flex: 1 1 0%;
+  min-width: 0;
+}
+
+/* Ensure proper grid behavior */
+.grid {
+  display: grid;
+}
+
+/* Responsive container fixes */
+.responsive-container {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+/* Chart container fixes */
+.recharts-wrapper {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+/* Remove any default margins that might cause gaps */
+* {
+  box-sizing: border-box;
+}
+
+/* Ensure sidebar doesn't cause horizontal scroll */
+@media (max-width: 1024px) {
+  .sidebar-open {
+    margin-left: 0;
+  }
+}
+
+/* Mobile optimizations */
+@media (max-width: 768px) {
+  .card {
+    padding: 1rem;
+  }
+  
+  .kpi {
+    min-height: 100px;
+  }
+}
