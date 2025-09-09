@@ -1,0 +1,69 @@
+2025-09-09 00:14:48,343 - INFO - Fetched 100 records for NSE:RELIANCE-EQ
+2025-09-09 00:14:55,869 - INFO - Starting training and prediction for NSE:RELIANCE-EQ
+2025-09-09 00:14:58,346 - INFO - Fetched 5000 records for NSE:RELIANCE-EQ
+2025-09-09 00:14:58,374 - WARNING - Error creating technical indicators: module 'ta.volume' has no attribute 'volume_sma'
+2025-09-09 00:14:58,464 - ERROR - Error in train_and_predict for NSE:RELIANCE-EQ: Insufficient data for training after cleaning
+2025-09-09 00:15:26,550 - INFO - Starting training and prediction for NSE:RELIANCE-EQ
+2025-09-09 00:15:27,124 - INFO - Fetched 5000 records for NSE:RELIANCE-EQ
+2025-09-09 00:15:27,240 - INFO - Prepared training data: 4985 samples, 62 features
+2025-09-09 00:15:39,899 - INFO - Trained xgboost model with MAE: 0.8086
+2025-09-09 00:15:57,101 - INFO - Trained random_forest model with MAE: 0.7051
+2025-09-09 00:17:41,403 - INFO - Trained gradient_boosting model with MAE: 0.6950
+2025-09-09 00:17:42,020 - INFO - Trained linear_regression model with MAE: 17.1490
+2025-09-09 00:17:42,139 - INFO - Trained ridge model with MAE: 17.1376
+2025-09-09 00:17:42,343 - INFO - Model training completed. Scores: {'xgboost': 0.8086258942018055, 'random_forest': 0.7051060233113956, 'gradient_boosting': 0.6949754383500621, 'linear_regression': 17.148993589297877, 'ridge': 17.137628565700805}
+2025-09-09 00:17:42,375 - INFO - Fetched 1000 records for NSE:RELIANCE-EQ
+2025-09-09 00:18:50,363 - INFO - Successfully loaded pre-trained models
+2025-09-09 00:18:50,411 - INFO - Fetched 1000 records for NSE:RELIANCE-EQ
+2025-09-09 00:19:02,441 - INFO - Successfully loaded pre-trained models
+2025-09-09 00:19:02,641 - INFO - Fetched 1000 records for NSE:INFY-EQ
+2025-09-09 00:19:53,453 - INFO - Successfully loaded pre-trained models
+2025-09-09 00:19:53,498 - INFO - Fetched 1000 records for NSE:RELIANCE-EQ
+2025-09-09 00:19:53,617 - INFO - Fetched 1000 records for NSE:INFY-EQ
+2025-09-09 00:19:53,835 - INFO - Fetched 1000 records for NSE:HDFCBANK-EQ
+2025-09-09 00:19:54,064 - INFO - Fetched 1000 records for NSE:TCS-EQ
+2025-09-09 00:19:54,473 - INFO - Fetched 1000 records for NSE:ICICIBANK-EQ
+2025-09-09 00:22:29,898 - INFO - Successfully loaded pre-trained models
+2025-09-09 00:22:29,932 - INFO - Fetched 1000 records for NSE:INFY-EQ
+2025-09-09 00:23:17,000 - INFO - Successfully loaded pre-trained models
+2025-09-09 00:23:17,039 - INFO - Fetched 1000 records for NSE:DRREDDY-EQ
+2025-09-09 00:23:24,981 - INFO - Successfully loaded pre-trained models
+2025-09-09 00:23:25,018 - INFO - Fetched 1000 records for NSE:DRREDDY-EQ
+2025-09-09 00:27:24,690 - INFO - Starting training and prediction for NSE:RELIANCE-EQ
+2025-09-09 00:27:25,268 - INFO - Fetched 5000 records for NSE:RELIANCE-EQ
+2025-09-09 00:27:25,377 - INFO - Prepared training data: 4985 samples, 62 features
+2025-09-09 00:27:36,465 - INFO - Trained xgboost model with MAE: 0.8086
+2025-09-09 00:27:52,303 - INFO - Trained random_forest model with MAE: 0.7051
+2025-09-09 00:29:36,365 - INFO - Trained gradient_boosting model with MAE: 0.6950
+2025-09-09 00:29:37,005 - INFO - Trained linear_regression model with MAE: 17.1490
+2025-09-09 00:29:37,124 - INFO - Trained ridge model with MAE: 17.1376
+2025-09-09 00:29:37,291 - INFO - Model training completed. Scores: {'xgboost': 0.8086258942018055, 'random_forest': 0.7051060233113924, 'gradient_boosting': 0.6949754383500621, 'linear_regression': 17.148993589297877, 'ridge': 17.137628565700805}
+2025-09-09 00:29:37,329 - INFO - Fetched 1000 records for NSE:RELIANCE-EQ
+2025-09-09 00:29:37,439 - ERROR - Error making prediction for NSE:RELIANCE-EQ: cannot access local variable 'current_price' where it is not associated with a value
+2025-09-09 00:29:37,440 - ERROR - Error in train_and_predict for NSE:RELIANCE-EQ: cannot access local variable 'current_price' where it is not associated with a value
+2025-09-09 00:29:56,605 - INFO - Successfully loaded pre-trained models for NSE:RELIANCE-EQ
+2025-09-09 00:29:56,654 - INFO - Fetched 1000 records for NSE:RELIANCE-EQ
+2025-09-09 00:30:03,901 - INFO - Starting training and prediction for NSE:INFY-EQ
+2025-09-09 00:30:05,692 - INFO - Fetched 5000 records for NSE:INFY-EQ
+2025-09-09 00:30:05,930 - INFO - Prepared training data: 4985 samples, 63 features
+2025-09-09 00:30:17,057 - INFO - Trained xgboost model with MAE: 0.8461
+2025-09-09 00:30:33,538 - INFO - Trained random_forest model with MAE: 0.8621
+2025-09-09 00:32:17,667 - INFO - Trained gradient_boosting model with MAE: 0.9718
+2025-09-09 00:32:18,259 - INFO - Trained linear_regression model with MAE: 18.0146
+2025-09-09 00:32:18,381 - INFO - Trained ridge model with MAE: 16.2462
+2025-09-09 00:32:18,531 - INFO - Model training completed. Scores: {'xgboost': 0.8460942029838096, 'random_forest': 0.8620746057031529, 'gradient_boosting': 0.9717916186051759, 'linear_regression': 18.014592490765505, 'ridge': 16.246189630710266}
+2025-09-09 00:32:18,566 - INFO - Fetched 1000 records for NSE:INFY-EQ
+2025-09-09 00:32:29,319 - INFO - Starting training and prediction for NSE:HDFCBANK-EQ
+2025-09-09 00:32:30,331 - INFO - Fetched 5000 records for NSE:HDFCBANK-EQ
+2025-09-09 00:32:30,442 - INFO - Prepared training data: 4985 samples, 63 features
+2025-09-09 00:32:40,977 - INFO - Trained xgboost model with MAE: 1.1652
+2025-09-09 00:32:58,528 - INFO - Trained random_forest model with MAE: 1.1531
+2025-09-09 00:34:49,240 - INFO - Trained gradient_boosting model with MAE: 1.2325
+2025-09-09 00:34:49,883 - INFO - Trained linear_regression model with MAE: 2663235430.7065
+2025-09-09 00:34:50,009 - INFO - Trained ridge model with MAE: 7.8285
+2025-09-09 00:34:50,131 - INFO - Model training completed. Scores: {'xgboost': 1.1652239769625403, 'random_forest': 1.1530808302017825, 'gradient_boosting': 1.2324689981267718, 'linear_regression': 2663235430.7065372, 'ridge': 7.828522205882445}
+2025-09-09 00:34:50,161 - INFO - Fetched 1000 records for NSE:HDFCBANK-EQ
+2025-09-09 00:37:01,334 - INFO - Successfully loaded pre-trained models for NSE:HDFCBANK-EQ
+2025-09-09 00:37:01,367 - INFO - Fetched 1000 records for NSE:HDFCBANK-EQ
+2025-09-09 00:37:06,117 - INFO - Successfully loaded pre-trained models for NSE:HDFCBANK-EQ
+2025-09-09 00:37:06,153 - INFO - Fetched 1000 records for NSE:HDFCBANK-EQ

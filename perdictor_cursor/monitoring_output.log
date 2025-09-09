@@ -1,0 +1,2172 @@
+nohup: ignoring input
+2025-09-09 03:18:32,819 - INFO - Database tables created successfully
+2025-09-09 03:18:32,819 - INFO - Initialized monitor for 38 symbols
+2025-09-09 03:18:32,820 - INFO - Starting monitoring loop (interval: 3s)
+2025-09-09 03:18:32,820 - INFO - Starting monitoring cycle for 38 symbols
+2025-09-09 03:18:32,820 - INFO - Multi-symbol monitoring started
+2025-09-09 03:18:32,845 - INFO - Loaded models for NSE:NIFTY50-INDEX from disk
+2025-09-09 03:18:32,886 - INFO - Fetched 1000 initial records for NSE:NIFTY50-INDEX in 0.040 seconds
+2025-09-09 03:18:32,905 - INFO - Initialized data cache for NSE:NIFTY50-INDEX with 1000 records
+2025-09-09 03:18:32,914 - INFO - Retrieved 1000 records from cache for NSE:NIFTY50-INDEX in 0.068 seconds
+2025-09-09 03:18:33,025 - INFO - Monitored NSE:NIFTY50-INDEX: HOLD (confidence: 100.0%)
+2025-09-09 03:18:33,185 - INFO - Loaded models for NSE:SBIN-EQ from disk
+2025-09-09 03:18:33,235 - INFO - Fetched 1000 initial records for NSE:SBIN-EQ in 0.048 seconds
+2025-09-09 03:18:33,247 - INFO - Initialized data cache for NSE:SBIN-EQ with 1000 records
+2025-09-09 03:18:33,255 - INFO - Retrieved 1000 records from cache for NSE:SBIN-EQ in 0.069 seconds
+2025-09-09 03:18:33,345 - INFO - Monitored NSE:SBIN-EQ: HOLD (confidence: 99.8%)
+2025-09-09 03:18:33,483 - INFO - Loaded models for NSE:RELIANCE-EQ from disk
+2025-09-09 03:18:33,539 - INFO - Fetched 1000 initial records for NSE:RELIANCE-EQ in 0.056 seconds
+2025-09-09 03:18:33,548 - INFO - Initialized data cache for NSE:RELIANCE-EQ with 1000 records
+2025-09-09 03:18:33,563 - INFO - Retrieved 1000 records from cache for NSE:RELIANCE-EQ in 0.080 seconds
+2025-09-09 03:18:33,689 - INFO - Monitored NSE:RELIANCE-EQ: HOLD (confidence: 99.7%)
+2025-09-09 03:18:33,834 - INFO - Loaded models for NSE:TCS-EQ from disk
+2025-09-09 03:18:33,876 - INFO - Fetched 1000 initial records for NSE:TCS-EQ in 0.042 seconds
+2025-09-09 03:18:33,890 - INFO - Initialized data cache for NSE:TCS-EQ with 1000 records
+2025-09-09 03:18:33,902 - INFO - Retrieved 1000 records from cache for NSE:TCS-EQ in 0.068 seconds
+2025-09-09 03:18:33,994 - INFO - Applied realistic bounds: 2868.09 -> 2996.36 (market hours: False)
+2025-09-09 03:18:34,026 - INFO - Created trading trigger for NSE:TCS-EQ: SELL at ₹3019.00
+2025-09-09 03:18:34,040 - INFO - Monitored NSE:TCS-EQ: SELL (confidence: 85.7%)
+2025-09-09 03:18:34,221 - INFO - Loaded models for NSE:HDFCBANK-EQ from disk
+2025-09-09 03:18:34,287 - INFO - Fetched 1000 initial records for NSE:HDFCBANK-EQ in 0.065 seconds
+2025-09-09 03:18:34,301 - INFO - Initialized data cache for NSE:HDFCBANK-EQ with 1000 records
+2025-09-09 03:18:34,310 - INFO - Retrieved 1000 records from cache for NSE:HDFCBANK-EQ in 0.089 seconds
+2025-09-09 03:18:34,438 - INFO - Monitored NSE:HDFCBANK-EQ: HOLD (confidence: 99.9%)
+2025-09-09 03:18:34,587 - INFO - Loaded models for NSE:ICICIBANK-EQ from disk
+2025-09-09 03:18:34,638 - INFO - Fetched 1000 initial records for NSE:ICICIBANK-EQ in 0.051 seconds
+2025-09-09 03:18:34,656 - INFO - Initialized data cache for NSE:ICICIBANK-EQ with 1000 records
+2025-09-09 03:18:34,667 - INFO - Retrieved 1000 records from cache for NSE:ICICIBANK-EQ in 0.079 seconds
+2025-09-09 03:18:34,765 - INFO - Monitored NSE:ICICIBANK-EQ: HOLD (confidence: 100.0%)
+2025-09-09 03:18:34,949 - INFO - Loaded models for NSE:INFY-EQ from disk
+2025-09-09 03:18:35,000 - INFO - Fetched 1000 initial records for NSE:INFY-EQ in 0.050 seconds
+2025-09-09 03:18:35,012 - INFO - Initialized data cache for NSE:INFY-EQ with 1000 records
+2025-09-09 03:18:35,021 - INFO - Retrieved 1000 records from cache for NSE:INFY-EQ in 0.071 seconds
+2025-09-09 03:18:35,106 - INFO - Applied realistic bounds: 1445.50 -> 1443.65 (market hours: False)
+2025-09-09 03:18:35,135 - INFO - Created trading trigger for NSE:INFY-EQ: BUY at ₹1432.90
+2025-09-09 03:18:35,145 - INFO - Monitored NSE:INFY-EQ: BUY (confidence: 97.9%)
+2025-09-09 03:18:35,288 - INFO - Loaded models for NSE:AXISBANK-EQ from disk
+2025-09-09 03:18:35,316 - INFO - Fetched 1000 initial records for NSE:AXISBANK-EQ in 0.028 seconds
+2025-09-09 03:18:35,331 - INFO - Initialized data cache for NSE:AXISBANK-EQ with 1000 records
+2025-09-09 03:18:35,338 - INFO - Retrieved 1000 records from cache for NSE:AXISBANK-EQ in 0.050 seconds
+2025-09-09 03:18:35,452 - INFO - Monitored NSE:AXISBANK-EQ: HOLD (confidence: 99.9%)
+2025-09-09 03:18:35,594 - INFO - Loaded models for NSE:KOTAKBANK-EQ from disk
+2025-09-09 03:18:35,621 - INFO - Fetched 1000 initial records for NSE:KOTAKBANK-EQ in 0.026 seconds
+2025-09-09 03:18:35,633 - INFO - Initialized data cache for NSE:KOTAKBANK-EQ with 1000 records
+2025-09-09 03:18:35,643 - INFO - Retrieved 1000 records from cache for NSE:KOTAKBANK-EQ in 0.049 seconds
+2025-09-09 03:18:35,776 - INFO - Applied realistic bounds: -84697864871.23 -> 1935.47 (market hours: False)
+2025-09-09 03:18:35,801 - INFO - Created trading trigger for NSE:KOTAKBANK-EQ: SELL at ₹1950.10
+2025-09-09 03:18:35,812 - INFO - Monitored NSE:KOTAKBANK-EQ: SELL (confidence: 100.0%)
+2025-09-09 03:18:35,953 - INFO - Loaded models for NSE:ITC-EQ from disk
+2025-09-09 03:18:36,009 - INFO - Fetched 1000 initial records for NSE:ITC-EQ in 0.055 seconds
+2025-09-09 03:18:36,022 - INFO - Initialized data cache for NSE:ITC-EQ with 1000 records
+2025-09-09 03:18:36,033 - INFO - Retrieved 1000 records from cache for NSE:ITC-EQ in 0.079 seconds
+2025-09-09 03:18:36,126 - INFO - Applied realistic bounds: -2047413115.55 -> 404.49 (market hours: False)
+2025-09-09 03:18:36,150 - INFO - Created trading trigger for NSE:ITC-EQ: SELL at ₹407.55
+2025-09-09 03:18:36,179 - INFO - Monitored NSE:ITC-EQ: SELL (confidence: 100.0%)
+2025-09-09 03:18:36,348 - INFO - Loaded models for NSE:HINDUNILVR-EQ from disk
+2025-09-09 03:18:36,390 - INFO - Fetched 1000 initial records for NSE:HINDUNILVR-EQ in 0.041 seconds
+2025-09-09 03:18:36,403 - INFO - Initialized data cache for NSE:HINDUNILVR-EQ with 1000 records
+2025-09-09 03:18:36,412 - INFO - Retrieved 1000 records from cache for NSE:HINDUNILVR-EQ in 0.063 seconds
+2025-09-09 03:18:36,549 - INFO - Monitored NSE:HINDUNILVR-EQ: HOLD (confidence: 99.6%)
+2025-09-09 03:18:36,687 - INFO - Loaded models for NSE:LT-EQ from disk
+2025-09-09 03:18:36,723 - INFO - Fetched 1000 initial records for NSE:LT-EQ in 0.036 seconds
+2025-09-09 03:18:36,732 - INFO - Initialized data cache for NSE:LT-EQ with 1000 records
+2025-09-09 03:18:36,739 - INFO - Retrieved 1000 records from cache for NSE:LT-EQ in 0.052 seconds
+2025-09-09 03:18:36,818 - INFO - Applied realistic bounds: 3561.74 -> 3556.07 (market hours: False)
+2025-09-09 03:18:36,862 - INFO - Created trading trigger for NSE:LT-EQ: BUY at ₹3529.60
+2025-09-09 03:18:36,898 - INFO - Monitored NSE:LT-EQ: BUY (confidence: 97.8%)
+2025-09-09 03:18:37,066 - INFO - Loaded models for NSE:MARUTI-EQ from disk
+2025-09-09 03:18:37,099 - INFO - Fetched 1000 initial records for NSE:MARUTI-EQ in 0.033 seconds
+2025-09-09 03:18:37,111 - INFO - Initialized data cache for NSE:MARUTI-EQ with 1000 records
+2025-09-09 03:18:37,122 - INFO - Retrieved 1000 records from cache for NSE:MARUTI-EQ in 0.055 seconds
+2025-09-09 03:18:37,212 - INFO - Applied realistic bounds: 13988.42 -> 15143.57 (market hours: False)
+2025-09-09 03:18:37,227 - INFO - Monitored NSE:MARUTI-EQ: SELL (confidence: 73.7%)
+2025-09-09 03:18:37,380 - INFO - Loaded models for NSE:M&M-EQ from disk
+2025-09-09 03:18:37,420 - INFO - Fetched 1000 initial records for NSE:M&M-EQ in 0.039 seconds
+2025-09-09 03:18:37,433 - INFO - Initialized data cache for NSE:M&M-EQ with 1000 records
+2025-09-09 03:18:37,442 - INFO - Retrieved 1000 records from cache for NSE:M&M-EQ in 0.061 seconds
+2025-09-09 03:18:37,516 - INFO - Applied realistic bounds: 4309.12 -> 3729.16 (market hours: False)
+2025-09-09 03:18:37,545 - INFO - Monitored NSE:M&M-EQ: BUY (confidence: 70.9%)
+2025-09-09 03:18:37,675 - INFO - Loaded models for NSE:BAJFINANCE-EQ from disk
+2025-09-09 03:18:37,719 - INFO - Fetched 1000 initial records for NSE:BAJFINANCE-EQ in 0.044 seconds
+2025-09-09 03:18:37,730 - INFO - Initialized data cache for NSE:BAJFINANCE-EQ with 1000 records
+2025-09-09 03:18:37,737 - INFO - Retrieved 1000 records from cache for NSE:BAJFINANCE-EQ in 0.062 seconds
+2025-09-09 03:18:37,818 - INFO - Applied realistic bounds: -3966131.10 -> 937.22 (market hours: False)
+2025-09-09 03:18:37,844 - INFO - Created trading trigger for NSE:BAJFINANCE-EQ: SELL at ₹944.30
+2025-09-09 03:18:37,853 - INFO - Monitored NSE:BAJFINANCE-EQ: SELL (confidence: 100.0%)
+2025-09-09 03:18:37,997 - INFO - Loaded models for NSE:BAJAJFINSV-EQ from disk
+2025-09-09 03:18:38,056 - INFO - Fetched 1000 initial records for NSE:BAJAJFINSV-EQ in 0.059 seconds
+2025-09-09 03:18:38,068 - INFO - Initialized data cache for NSE:BAJAJFINSV-EQ with 1000 records
+2025-09-09 03:18:38,076 - INFO - Retrieved 1000 records from cache for NSE:BAJAJFINSV-EQ in 0.078 seconds
+2025-09-09 03:18:38,148 - INFO - Applied realistic bounds: -55395075244.54 -> 1993.34 (market hours: False)
+2025-09-09 03:18:38,164 - INFO - Created trading trigger for NSE:BAJAJFINSV-EQ: SELL at ₹2008.40
+2025-09-09 03:18:38,193 - INFO - Monitored NSE:BAJAJFINSV-EQ: SELL (confidence: 100.0%)
+2025-09-09 03:18:38,332 - INFO - Loaded models for NSE:ADANIENT-EQ from disk
+2025-09-09 03:18:38,380 - INFO - Fetched 1000 initial records for NSE:ADANIENT-EQ in 0.047 seconds
+2025-09-09 03:18:38,399 - INFO - Initialized data cache for NSE:ADANIENT-EQ with 1000 records
+2025-09-09 03:18:38,413 - INFO - Retrieved 1000 records from cache for NSE:ADANIENT-EQ in 0.079 seconds
+2025-09-09 03:18:38,504 - INFO - Applied realistic bounds: -291481506.06 -> 2293.57 (market hours: False)
+2025-09-09 03:18:38,549 - INFO - Created trading trigger for NSE:ADANIENT-EQ: SELL at ₹2310.90
+2025-09-09 03:18:38,560 - INFO - Monitored NSE:ADANIENT-EQ: SELL (confidence: 100.0%)
+2025-09-09 03:18:38,688 - INFO - Loaded models for NSE:ADANIPORTS-EQ from disk
+2025-09-09 03:18:38,730 - INFO - Fetched 1000 initial records for NSE:ADANIPORTS-EQ in 0.041 seconds
+2025-09-09 03:18:38,745 - INFO - Initialized data cache for NSE:ADANIPORTS-EQ with 1000 records
+2025-09-09 03:18:38,755 - INFO - Retrieved 1000 records from cache for NSE:ADANIPORTS-EQ in 0.066 seconds
+2025-09-09 03:18:38,812 - INFO - Applied realistic bounds: -100821256.81 -> 1338.19 (market hours: False)
+2025-09-09 03:18:38,834 - INFO - Created trading trigger for NSE:ADANIPORTS-EQ: SELL at ₹1348.30
+2025-09-09 03:18:38,857 - INFO - Monitored NSE:ADANIPORTS-EQ: SELL (confidence: 100.0%)
+2025-09-09 03:18:38,995 - INFO - Loaded models for NSE:POWERGRID-EQ from disk
+2025-09-09 03:18:39,035 - INFO - Fetched 1000 initial records for NSE:POWERGRID-EQ in 0.041 seconds
+2025-09-09 03:18:39,045 - INFO - Initialized data cache for NSE:POWERGRID-EQ with 1000 records
+2025-09-09 03:18:39,054 - INFO - Retrieved 1000 records from cache for NSE:POWERGRID-EQ in 0.059 seconds
+2025-09-09 03:18:39,135 - INFO - Applied realistic bounds: 82598807.55 -> 284.92 (market hours: False)
+2025-09-09 03:18:39,158 - INFO - Monitored NSE:POWERGRID-EQ: HOLD (confidence: 0.0%)
+2025-09-09 03:18:39,286 - INFO - Loaded models for NSE:ONGC-EQ from disk
+2025-09-09 03:18:39,328 - INFO - Fetched 1000 initial records for NSE:ONGC-EQ in 0.041 seconds
+2025-09-09 03:18:39,340 - INFO - Initialized data cache for NSE:ONGC-EQ with 1000 records
+2025-09-09 03:18:39,348 - INFO - Retrieved 1000 records from cache for NSE:ONGC-EQ in 0.062 seconds
+2025-09-09 03:18:39,416 - INFO - Applied realistic bounds: -2628.63 -> 230.79 (market hours: False)
+2025-09-09 03:18:39,428 - INFO - Created trading trigger for NSE:ONGC-EQ: SELL at ₹232.53
+2025-09-09 03:18:39,439 - INFO - Monitored NSE:ONGC-EQ: SELL (confidence: 100.0%)
+2025-09-09 03:18:39,573 - INFO - Loaded models for NSE:NTPC-EQ from disk
+2025-09-09 03:18:39,618 - INFO - Fetched 1000 initial records for NSE:NTPC-EQ in 0.044 seconds
+2025-09-09 03:18:39,635 - INFO - Initialized data cache for NSE:NTPC-EQ with 1000 records
+2025-09-09 03:18:39,647 - INFO - Retrieved 1000 records from cache for NSE:NTPC-EQ in 0.073 seconds
+2025-09-09 03:18:39,728 - INFO - Applied realistic bounds: 265808.98 -> 329.15 (market hours: False)
+2025-09-09 03:18:39,744 - INFO - Monitored NSE:NTPC-EQ: HOLD (confidence: 0.0%)
+2025-09-09 03:18:39,880 - INFO - Loaded models for NSE:TATAMOTORS-EQ from disk
+2025-09-09 03:18:39,924 - INFO - Fetched 1000 initial records for NSE:TATAMOTORS-EQ in 0.043 seconds
+2025-09-09 03:18:39,934 - INFO - Initialized data cache for NSE:TATAMOTORS-EQ with 1000 records
+2025-09-09 03:18:39,942 - INFO - Retrieved 1000 records from cache for NSE:TATAMOTORS-EQ in 0.061 seconds
+2025-09-09 03:18:39,994 - INFO - Applied realistic bounds: -6316421.91 -> 714.10 (market hours: False)
+2025-09-09 03:18:40,016 - INFO - Created trading trigger for NSE:TATAMOTORS-EQ: SELL at ₹719.50
+2025-09-09 03:18:40,025 - INFO - Monitored NSE:TATAMOTORS-EQ: SELL (confidence: 100.0%)
+2025-09-09 03:18:40,158 - INFO - Loaded models for NSE:TATASTEEL-EQ from disk
+2025-09-09 03:18:40,247 - INFO - Fetched 1000 initial records for NSE:TATASTEEL-EQ in 0.088 seconds
+2025-09-09 03:18:40,255 - INFO - Initialized data cache for NSE:TATASTEEL-EQ with 1000 records
+2025-09-09 03:18:40,263 - INFO - Retrieved 1000 records from cache for NSE:TATASTEEL-EQ in 0.104 seconds
+2025-09-09 03:18:40,348 - INFO - Monitored NSE:TATASTEEL-EQ: HOLD (confidence: 98.9%)
+2025-09-09 03:18:40,480 - INFO - Loaded models for NSE:TITAN-EQ from disk
+2025-09-09 03:18:40,527 - INFO - Fetched 1000 initial records for NSE:TITAN-EQ in 0.047 seconds
+2025-09-09 03:18:40,547 - INFO - Initialized data cache for NSE:TITAN-EQ with 1000 records
+2025-09-09 03:18:40,558 - INFO - Retrieved 1000 records from cache for NSE:TITAN-EQ in 0.078 seconds
+2025-09-09 03:18:40,638 - INFO - Applied realistic bounds: -54281221450.75 -> 3630.57 (market hours: False)
+2025-09-09 03:18:40,660 - INFO - Created trading trigger for NSE:TITAN-EQ: SELL at ₹3658.00
+2025-09-09 03:18:40,670 - INFO - Monitored NSE:TITAN-EQ: SELL (confidence: 100.0%)
+2025-09-09 03:18:40,806 - INFO - Loaded models for NSE:WIPRO-EQ from disk
+2025-09-09 03:18:40,853 - INFO - Fetched 1000 initial records for NSE:WIPRO-EQ in 0.046 seconds
+2025-09-09 03:18:40,868 - INFO - Initialized data cache for NSE:WIPRO-EQ with 1000 records
+2025-09-09 03:18:40,879 - INFO - Retrieved 1000 records from cache for NSE:WIPRO-EQ in 0.073 seconds
+2025-09-09 03:18:40,957 - INFO - Created trading trigger for NSE:WIPRO-EQ: SELL at ₹242.52
+2025-09-09 03:18:40,968 - INFO - Monitored NSE:WIPRO-EQ: SELL (confidence: 98.2%)
+2025-09-09 03:18:41,096 - INFO - Loaded models for NSE:TECHM-EQ from disk
+2025-09-09 03:18:41,137 - INFO - Fetched 1000 initial records for NSE:TECHM-EQ in 0.042 seconds
+2025-09-09 03:18:41,150 - INFO - Initialized data cache for NSE:TECHM-EQ with 1000 records
+2025-09-09 03:18:41,157 - INFO - Retrieved 1000 records from cache for NSE:TECHM-EQ in 0.061 seconds
+2025-09-09 03:18:41,223 - INFO - Applied realistic bounds: -110949.72 -> 1449.74 (market hours: False)
+2025-09-09 03:18:41,241 - INFO - Created trading trigger for NSE:TECHM-EQ: SELL at ₹1460.70
+2025-09-09 03:18:41,250 - INFO - Monitored NSE:TECHM-EQ: SELL (confidence: 100.0%)
+2025-09-09 03:18:41,383 - INFO - Loaded models for NSE:ULTRACEMCO-EQ from disk
+2025-09-09 03:18:41,423 - INFO - Fetched 1000 initial records for NSE:ULTRACEMCO-EQ in 0.040 seconds
+2025-09-09 03:18:41,441 - INFO - Initialized data cache for NSE:ULTRACEMCO-EQ with 1000 records
+2025-09-09 03:18:41,452 - INFO - Retrieved 1000 records from cache for NSE:ULTRACEMCO-EQ in 0.069 seconds
+2025-09-09 03:18:41,522 - INFO - Applied realistic bounds: -2011185.20 -> 12569.02 (market hours: False)
+2025-09-09 03:18:41,543 - INFO - Created trading trigger for NSE:ULTRACEMCO-EQ: SELL at ₹12664.00
+2025-09-09 03:18:41,554 - INFO - Monitored NSE:ULTRACEMCO-EQ: SELL (confidence: 100.0%)
+2025-09-09 03:18:41,684 - INFO - Loaded models for NSE:GRASIM-EQ from disk
+2025-09-09 03:18:41,721 - INFO - Fetched 1000 initial records for NSE:GRASIM-EQ in 0.037 seconds
+2025-09-09 03:18:41,731 - INFO - Initialized data cache for NSE:GRASIM-EQ with 1000 records
+2025-09-09 03:18:41,738 - INFO - Retrieved 1000 records from cache for NSE:GRASIM-EQ in 0.054 seconds
+2025-09-09 03:18:41,808 - INFO - Applied realistic bounds: 3296.12 -> 2825.13 (market hours: False)
+2025-09-09 03:18:41,828 - INFO - Monitored NSE:GRASIM-EQ: HOLD (confidence: 47.2%)
+2025-09-09 03:18:41,968 - INFO - Loaded models for NSE:JSWSTEEL-EQ from disk
+2025-09-09 03:18:42,009 - INFO - Fetched 1000 initial records for NSE:JSWSTEEL-EQ in 0.040 seconds
+2025-09-09 03:18:42,022 - INFO - Initialized data cache for NSE:JSWSTEEL-EQ with 1000 records
+2025-09-09 03:18:42,033 - INFO - Retrieved 1000 records from cache for NSE:JSWSTEEL-EQ in 0.064 seconds
+2025-09-09 03:18:42,108 - INFO - Applied realistic bounds: 2442779004.87 -> 1109.66 (market hours: False)
+2025-09-09 03:18:42,128 - INFO - Monitored NSE:JSWSTEEL-EQ: HOLD (confidence: 0.0%)
+2025-09-09 03:18:42,256 - INFO - Loaded models for NSE:COALINDIA-EQ from disk
+2025-09-09 03:18:42,289 - INFO - Fetched 1000 initial records for NSE:COALINDIA-EQ in 0.032 seconds
+2025-09-09 03:18:42,297 - INFO - Initialized data cache for NSE:COALINDIA-EQ with 1000 records
+2025-09-09 03:18:42,305 - INFO - Retrieved 1000 records from cache for NSE:COALINDIA-EQ in 0.049 seconds
+2025-09-09 03:18:42,375 - INFO - Applied realistic bounds: 3213670.89 -> 389.95 (market hours: False)
+2025-09-09 03:18:42,393 - INFO - Monitored NSE:COALINDIA-EQ: HOLD (confidence: 0.0%)
+2025-09-09 03:18:42,521 - INFO - Loaded models for NSE:BPCL-EQ from disk
+2025-09-09 03:18:42,587 - INFO - Fetched 1000 initial records for NSE:BPCL-EQ in 0.066 seconds
+2025-09-09 03:18:42,621 - INFO - Initialized data cache for NSE:BPCL-EQ with 1000 records
+2025-09-09 03:18:42,634 - INFO - Retrieved 1000 records from cache for NSE:BPCL-EQ in 0.113 seconds
+2025-09-09 03:18:42,738 - INFO - Applied realistic bounds: 17054288453385960.00 -> 318.82 (market hours: False)
+2025-09-09 03:18:42,752 - INFO - Monitored NSE:BPCL-EQ: HOLD (confidence: 0.0%)
+2025-09-09 03:18:42,891 - INFO - Loaded models for NSE:IOC-EQ from disk
+2025-09-09 03:18:42,919 - INFO - Fetched 1000 initial records for NSE:IOC-EQ in 0.028 seconds
+2025-09-09 03:18:42,928 - INFO - Initialized data cache for NSE:IOC-EQ with 1000 records
+2025-09-09 03:18:42,935 - INFO - Retrieved 1000 records from cache for NSE:IOC-EQ in 0.044 seconds
+2025-09-09 03:18:43,019 - INFO - Monitored NSE:IOC-EQ: HOLD (confidence: 99.9%)
+2025-09-09 03:18:43,146 - INFO - Loaded models for NSE:HEROMOTOCO-EQ from disk
+2025-09-09 03:18:43,184 - INFO - Fetched 1000 initial records for NSE:HEROMOTOCO-EQ in 0.038 seconds
+2025-09-09 03:18:43,201 - INFO - Initialized data cache for NSE:HEROMOTOCO-EQ with 1000 records
+2025-09-09 03:18:43,211 - INFO - Retrieved 1000 records from cache for NSE:HEROMOTOCO-EQ in 0.065 seconds
+2025-09-09 03:18:43,303 - INFO - Monitored NSE:HEROMOTOCO-EQ: HOLD (confidence: 99.2%)
+2025-09-09 03:18:43,438 - INFO - Loaded models for NSE:BRITANNIA-EQ from disk
+2025-09-09 03:18:43,481 - INFO - Fetched 1000 initial records for NSE:BRITANNIA-EQ in 0.043 seconds
+2025-09-09 03:18:43,501 - INFO - Initialized data cache for NSE:BRITANNIA-EQ with 1000 records
+2025-09-09 03:18:43,513 - INFO - Retrieved 1000 records from cache for NSE:BRITANNIA-EQ in 0.075 seconds
+2025-09-09 03:18:43,605 - INFO - Monitored NSE:BRITANNIA-EQ: HOLD (confidence: 99.9%)
+2025-09-09 03:18:43,740 - INFO - Loaded models for NSE:HCLTECH-EQ from disk
+2025-09-09 03:18:43,776 - INFO - Fetched 1000 initial records for NSE:HCLTECH-EQ in 0.036 seconds
+2025-09-09 03:18:43,786 - INFO - Initialized data cache for NSE:HCLTECH-EQ with 1000 records
+2025-09-09 03:18:43,798 - INFO - Retrieved 1000 records from cache for NSE:HCLTECH-EQ in 0.058 seconds
+2025-09-09 03:18:43,875 - INFO - Applied realistic bounds: 1387.99 -> 1392.48 (market hours: False)
+2025-09-09 03:18:43,905 - INFO - Created trading trigger for NSE:HCLTECH-EQ: SELL at ₹1403.00
+2025-09-09 03:18:43,919 - INFO - Monitored NSE:HCLTECH-EQ: SELL (confidence: 97.2%)
+2025-09-09 03:18:44,047 - INFO - Loaded models for NSE:CIPLA-EQ from disk
+2025-09-09 03:18:44,092 - INFO - Fetched 1000 initial records for NSE:CIPLA-EQ in 0.045 seconds
+2025-09-09 03:18:44,101 - INFO - Initialized data cache for NSE:CIPLA-EQ with 1000 records
+2025-09-09 03:18:44,108 - INFO - Retrieved 1000 records from cache for NSE:CIPLA-EQ in 0.060 seconds
+2025-09-09 03:18:44,172 - INFO - Applied realistic bounds: -43900952.20 -> 1529.64 (market hours: False)
+2025-09-09 03:18:44,204 - INFO - Created trading trigger for NSE:CIPLA-EQ: SELL at ₹1541.20
+2025-09-09 03:18:44,212 - INFO - Monitored NSE:CIPLA-EQ: SELL (confidence: 100.0%)
+2025-09-09 03:18:44,339 - INFO - Loaded models for NSE:DIVISLAB-EQ from disk
+2025-09-09 03:18:44,383 - INFO - Fetched 1000 initial records for NSE:DIVISLAB-EQ in 0.044 seconds
+2025-09-09 03:18:44,402 - INFO - Initialized data cache for NSE:DIVISLAB-EQ with 1000 records
+2025-09-09 03:18:44,414 - INFO - Retrieved 1000 records from cache for NSE:DIVISLAB-EQ in 0.074 seconds
+2025-09-09 03:18:44,481 - INFO - Applied realistic bounds: -7468890.68 -> 5982.29 (market hours: False)
+2025-09-09 03:18:44,505 - INFO - Created trading trigger for NSE:DIVISLAB-EQ: SELL at ₹6027.50
+2025-09-09 03:18:44,516 - INFO - Monitored NSE:DIVISLAB-EQ: SELL (confidence: 100.0%)
+2025-09-09 03:18:44,660 - INFO - Loaded models for NSE:DRREDDY-EQ from disk
+2025-09-09 03:18:44,696 - INFO - Fetched 1000 initial records for NSE:DRREDDY-EQ in 0.036 seconds
+2025-09-09 03:18:44,707 - INFO - Initialized data cache for NSE:DRREDDY-EQ with 1000 records
+2025-09-09 03:18:44,714 - INFO - Retrieved 1000 records from cache for NSE:DRREDDY-EQ in 0.054 seconds
+2025-09-09 03:18:44,847 - INFO - Applied realistic bounds: 17850434.52 -> 1259.98 (market hours: False)
+2025-09-09 03:18:44,870 - INFO - Monitored NSE:DRREDDY-EQ: HOLD (confidence: 0.0%)
+2025-09-09 03:18:44,970 - INFO - Completed monitoring cycle
+2025-09-09 03:18:44,972 - INFO - Starting monitoring cycle for 38 symbols
+2025-09-09 03:18:44,972 - INFO - Loaded models for NSE:NIFTY50-INDEX from cache
+2025-09-09 03:18:44,986 - INFO - Retrieved 1000 records from cache for NSE:NIFTY50-INDEX in 0.013 seconds
+2025-09-09 03:18:45,028 - ERROR - Error making prediction for NSE:NIFTY50-INDEX: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- bid
+- chp
+- last_traded_qty
+- price_volume_trend
+- volume_change
+- ...
+
+2025-09-09 03:18:45,028 - ERROR - Error monitoring NSE:NIFTY50-INDEX: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- bid
+- chp
+- last_traded_qty
+- price_volume_trend
+- volume_change
+- ...
+
+2025-09-09 03:18:45,030 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- bid
+- chp
+- last_traded_qty
+- price_volume_trend
+- volume_change
+- ...
+
+
+2025-09-09 03:18:45,130 - INFO - Loaded models for NSE:SBIN-EQ from cache
+2025-09-09 03:18:45,141 - INFO - Retrieved 1000 records from cache for NSE:SBIN-EQ in 0.010 seconds
+2025-09-09 03:18:45,232 - INFO - Applied realistic bounds: -310013242838.96 -> 802.73 (market hours: False)
+2025-09-09 03:18:45,257 - INFO - Created trading trigger for NSE:SBIN-EQ: SELL at ₹808.80
+2025-09-09 03:18:45,266 - INFO - Monitored NSE:SBIN-EQ: SELL (confidence: 100.0%)
+2025-09-09 03:18:45,366 - INFO - Loaded models for NSE:RELIANCE-EQ from cache
+2025-09-09 03:18:45,377 - INFO - Retrieved 1000 records from cache for NSE:RELIANCE-EQ in 0.009 seconds
+2025-09-09 03:18:45,416 - ERROR - Error making prediction for NSE:RELIANCE-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:45,416 - ERROR - Error monitoring NSE:RELIANCE-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:45,417 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+
+2025-09-09 03:18:45,517 - INFO - Loaded models for NSE:TCS-EQ from cache
+2025-09-09 03:18:45,531 - INFO - Retrieved 1000 records from cache for NSE:TCS-EQ in 0.013 seconds
+2025-09-09 03:18:45,584 - ERROR - Error making prediction for NSE:TCS-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:45,584 - ERROR - Error monitoring NSE:TCS-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:45,585 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+
+2025-09-09 03:18:45,685 - INFO - Loaded models for NSE:HDFCBANK-EQ from cache
+2025-09-09 03:18:45,697 - INFO - Retrieved 1000 records from cache for NSE:HDFCBANK-EQ in 0.010 seconds
+2025-09-09 03:18:45,738 - ERROR - Error making prediction for NSE:HDFCBANK-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:45,738 - ERROR - Error monitoring NSE:HDFCBANK-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:45,739 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+
+2025-09-09 03:18:45,839 - INFO - Loaded models for NSE:ICICIBANK-EQ from cache
+2025-09-09 03:18:45,851 - INFO - Retrieved 1000 records from cache for NSE:ICICIBANK-EQ in 0.012 seconds
+2025-09-09 03:18:45,894 - ERROR - Error making prediction for NSE:ICICIBANK-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- bid
+
+2025-09-09 03:18:45,894 - ERROR - Error monitoring NSE:ICICIBANK-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- bid
+
+2025-09-09 03:18:45,894 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- bid
+
+
+2025-09-09 03:18:45,995 - INFO - Loaded models for NSE:INFY-EQ from cache
+2025-09-09 03:18:46,007 - INFO - Retrieved 1000 records from cache for NSE:INFY-EQ in 0.012 seconds
+2025-09-09 03:18:46,076 - INFO - Applied realistic bounds: -26533891660114.42 -> 1422.15 (market hours: False)
+2025-09-09 03:18:46,092 - INFO - Created trading trigger for NSE:INFY-EQ: SELL at ₹1432.90
+2025-09-09 03:18:46,102 - INFO - Monitored NSE:INFY-EQ: SELL (confidence: 100.0%)
+2025-09-09 03:18:46,202 - INFO - Loaded models for NSE:AXISBANK-EQ from cache
+2025-09-09 03:18:46,214 - INFO - Retrieved 1000 records from cache for NSE:AXISBANK-EQ in 0.011 seconds
+2025-09-09 03:18:46,255 - ERROR - Error making prediction for NSE:AXISBANK-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- bid
+- last_traded_qty
+
+2025-09-09 03:18:46,256 - ERROR - Error monitoring NSE:AXISBANK-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- bid
+- last_traded_qty
+
+2025-09-09 03:18:46,256 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- bid
+- last_traded_qty
+
+
+2025-09-09 03:18:46,357 - INFO - Loaded models for NSE:KOTAKBANK-EQ from cache
+2025-09-09 03:18:46,374 - INFO - Retrieved 1000 records from cache for NSE:KOTAKBANK-EQ in 0.016 seconds
+2025-09-09 03:18:46,427 - ERROR - Error making prediction for NSE:KOTAKBANK-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- bid
+
+2025-09-09 03:18:46,428 - ERROR - Error monitoring NSE:KOTAKBANK-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- bid
+
+2025-09-09 03:18:46,428 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- bid
+
+
+2025-09-09 03:18:46,529 - INFO - Loaded models for NSE:ITC-EQ from cache
+2025-09-09 03:18:46,541 - INFO - Retrieved 1000 records from cache for NSE:ITC-EQ in 0.012 seconds
+2025-09-09 03:18:46,586 - ERROR - Error making prediction for NSE:ITC-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:46,586 - ERROR - Error monitoring NSE:ITC-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:46,586 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+
+2025-09-09 03:18:46,687 - INFO - Loaded models for NSE:HINDUNILVR-EQ from cache
+2025-09-09 03:18:46,698 - INFO - Retrieved 1000 records from cache for NSE:HINDUNILVR-EQ in 0.011 seconds
+2025-09-09 03:18:46,749 - ERROR - Error making prediction for NSE:HINDUNILVR-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:46,749 - ERROR - Error monitoring NSE:HINDUNILVR-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:46,750 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+
+2025-09-09 03:18:46,850 - INFO - Loaded models for NSE:LT-EQ from cache
+2025-09-09 03:18:46,862 - INFO - Retrieved 1000 records from cache for NSE:LT-EQ in 0.011 seconds
+2025-09-09 03:18:46,901 - ERROR - Error making prediction for NSE:LT-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:46,901 - ERROR - Error monitoring NSE:LT-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:46,902 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+
+2025-09-09 03:18:47,002 - INFO - Loaded models for NSE:MARUTI-EQ from cache
+2025-09-09 03:18:47,014 - INFO - Retrieved 1000 records from cache for NSE:MARUTI-EQ in 0.011 seconds
+2025-09-09 03:18:47,068 - ERROR - Error making prediction for NSE:MARUTI-EQ: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:47,068 - ERROR - Error monitoring NSE:MARUTI-EQ: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:47,069 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+
+2025-09-09 03:18:47,169 - INFO - Loaded models for NSE:M&M-EQ from cache
+2025-09-09 03:18:47,181 - INFO - Retrieved 1000 records from cache for NSE:M&M-EQ in 0.011 seconds
+2025-09-09 03:18:47,222 - ERROR - Error making prediction for NSE:M&M-EQ: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:47,223 - ERROR - Error monitoring NSE:M&M-EQ: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:47,223 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+
+2025-09-09 03:18:47,324 - INFO - Loaded models for NSE:BAJFINANCE-EQ from cache
+2025-09-09 03:18:47,334 - INFO - Retrieved 1000 records from cache for NSE:BAJFINANCE-EQ in 0.010 seconds
+2025-09-09 03:18:47,377 - ERROR - Error making prediction for NSE:BAJFINANCE-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:47,377 - ERROR - Error monitoring NSE:BAJFINANCE-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:47,378 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+
+2025-09-09 03:18:47,478 - INFO - Loaded models for NSE:BAJAJFINSV-EQ from cache
+2025-09-09 03:18:47,488 - INFO - Retrieved 1000 records from cache for NSE:BAJAJFINSV-EQ in 0.009 seconds
+2025-09-09 03:18:47,566 - INFO - Applied realistic bounds: 17426387852407.01 -> 2023.46 (market hours: False)
+2025-09-09 03:18:47,587 - INFO - Monitored NSE:BAJAJFINSV-EQ: HOLD (confidence: 0.0%)
+2025-09-09 03:18:47,688 - INFO - Loaded models for NSE:ADANIENT-EQ from cache
+2025-09-09 03:18:47,699 - INFO - Retrieved 1000 records from cache for NSE:ADANIENT-EQ in 0.011 seconds
+2025-09-09 03:18:47,748 - ERROR - Error making prediction for NSE:ADANIENT-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:47,749 - ERROR - Error monitoring NSE:ADANIENT-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:47,750 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+
+2025-09-09 03:18:47,850 - INFO - Loaded models for NSE:ADANIPORTS-EQ from cache
+2025-09-09 03:18:47,861 - INFO - Retrieved 1000 records from cache for NSE:ADANIPORTS-EQ in 0.010 seconds
+2025-09-09 03:18:47,905 - ERROR - Error making prediction for NSE:ADANIPORTS-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:47,905 - ERROR - Error monitoring NSE:ADANIPORTS-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:47,906 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+
+2025-09-09 03:18:48,006 - INFO - Loaded models for NSE:POWERGRID-EQ from cache
+2025-09-09 03:18:48,016 - INFO - Retrieved 1000 records from cache for NSE:POWERGRID-EQ in 0.009 seconds
+2025-09-09 03:18:48,094 - INFO - Applied realistic bounds: -3900279830582.92 -> 280.68 (market hours: False)
+2025-09-09 03:18:48,110 - INFO - Created trading trigger for NSE:POWERGRID-EQ: SELL at ₹282.80
+2025-09-09 03:18:48,122 - INFO - Monitored NSE:POWERGRID-EQ: SELL (confidence: 100.0%)
+2025-09-09 03:18:48,223 - INFO - Loaded models for NSE:ONGC-EQ from cache
+2025-09-09 03:18:48,234 - INFO - Retrieved 1000 records from cache for NSE:ONGC-EQ in 0.011 seconds
+2025-09-09 03:18:48,304 - INFO - Applied realistic bounds: 962598499304.20 -> 234.27 (market hours: False)
+2025-09-09 03:18:48,316 - INFO - Monitored NSE:ONGC-EQ: HOLD (confidence: 0.0%)
+2025-09-09 03:18:48,417 - INFO - Loaded models for NSE:NTPC-EQ from cache
+2025-09-09 03:18:48,428 - INFO - Retrieved 1000 records from cache for NSE:NTPC-EQ in 0.010 seconds
+2025-09-09 03:18:48,497 - INFO - Applied realistic bounds: 1878304986639.87 -> 329.15 (market hours: False)
+2025-09-09 03:18:48,511 - INFO - Monitored NSE:NTPC-EQ: HOLD (confidence: 0.0%)
+2025-09-09 03:18:48,614 - INFO - Loaded models for NSE:TATAMOTORS-EQ from cache
+2025-09-09 03:18:48,626 - INFO - Retrieved 1000 records from cache for NSE:TATAMOTORS-EQ in 0.012 seconds
+2025-09-09 03:18:48,705 - INFO - Applied realistic bounds: -202424397620591.84 -> 714.10 (market hours: False)
+2025-09-09 03:18:48,730 - INFO - Created trading trigger for NSE:TATAMOTORS-EQ: SELL at ₹719.50
+2025-09-09 03:18:48,740 - INFO - Monitored NSE:TATAMOTORS-EQ: SELL (confidence: 100.0%)
+2025-09-09 03:18:48,840 - INFO - Loaded models for NSE:TATASTEEL-EQ from cache
+2025-09-09 03:18:48,852 - INFO - Retrieved 1000 records from cache for NSE:TATASTEEL-EQ in 0.012 seconds
+2025-09-09 03:18:48,897 - ERROR - Error making prediction for NSE:TATASTEEL-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:48,897 - ERROR - Error monitoring NSE:TATASTEEL-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:48,898 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+
+2025-09-09 03:18:48,998 - INFO - Loaded models for NSE:TITAN-EQ from cache
+2025-09-09 03:18:49,010 - INFO - Retrieved 1000 records from cache for NSE:TITAN-EQ in 0.011 seconds
+2025-09-09 03:18:49,091 - INFO - Applied realistic bounds: 22892305017504.64 -> 3685.43 (market hours: False)
+2025-09-09 03:18:49,113 - INFO - Monitored NSE:TITAN-EQ: HOLD (confidence: 0.0%)
+2025-09-09 03:18:49,214 - INFO - Loaded models for NSE:WIPRO-EQ from cache
+2025-09-09 03:18:49,228 - INFO - Retrieved 1000 records from cache for NSE:WIPRO-EQ in 0.014 seconds
+2025-09-09 03:18:49,294 - ERROR - Error making prediction for NSE:WIPRO-EQ: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:49,294 - ERROR - Error monitoring NSE:WIPRO-EQ: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:49,296 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+
+2025-09-09 03:18:49,396 - INFO - Loaded models for NSE:TECHM-EQ from cache
+2025-09-09 03:18:49,410 - INFO - Retrieved 1000 records from cache for NSE:TECHM-EQ in 0.013 seconds
+2025-09-09 03:18:49,483 - INFO - Applied realistic bounds: 18278177373232.51 -> 1471.66 (market hours: False)
+2025-09-09 03:18:49,496 - INFO - Monitored NSE:TECHM-EQ: HOLD (confidence: 0.0%)
+2025-09-09 03:18:49,596 - INFO - Loaded models for NSE:ULTRACEMCO-EQ from cache
+2025-09-09 03:18:49,608 - INFO - Retrieved 1000 records from cache for NSE:ULTRACEMCO-EQ in 0.011 seconds
+2025-09-09 03:18:49,651 - ERROR - Error making prediction for NSE:ULTRACEMCO-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:49,651 - ERROR - Error monitoring NSE:ULTRACEMCO-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:49,652 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+
+2025-09-09 03:18:49,753 - INFO - Loaded models for NSE:GRASIM-EQ from cache
+2025-09-09 03:18:49,762 - INFO - Retrieved 1000 records from cache for NSE:GRASIM-EQ in 0.009 seconds
+2025-09-09 03:18:49,803 - ERROR - Error making prediction for NSE:GRASIM-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:49,804 - ERROR - Error monitoring NSE:GRASIM-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:49,804 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+
+2025-09-09 03:18:49,905 - INFO - Loaded models for NSE:JSWSTEEL-EQ from cache
+2025-09-09 03:18:49,917 - INFO - Retrieved 1000 records from cache for NSE:JSWSTEEL-EQ in 0.011 seconds
+2025-09-09 03:18:49,993 - INFO - Applied realistic bounds: -3539875268337.15 -> 1093.14 (market hours: False)
+2025-09-09 03:18:50,009 - INFO - Created trading trigger for NSE:JSWSTEEL-EQ: SELL at ₹1101.40
+2025-09-09 03:18:50,020 - INFO - Monitored NSE:JSWSTEEL-EQ: SELL (confidence: 100.0%)
+2025-09-09 03:18:50,121 - INFO - Loaded models for NSE:COALINDIA-EQ from cache
+2025-09-09 03:18:50,135 - INFO - Retrieved 1000 records from cache for NSE:COALINDIA-EQ in 0.014 seconds
+2025-09-09 03:18:50,179 - ERROR - Error making prediction for NSE:COALINDIA-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:50,179 - ERROR - Error monitoring NSE:COALINDIA-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:50,179 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+
+2025-09-09 03:18:50,280 - INFO - Loaded models for NSE:BPCL-EQ from cache
+2025-09-09 03:18:50,290 - INFO - Retrieved 1000 records from cache for NSE:BPCL-EQ in 0.010 seconds
+2025-09-09 03:18:50,332 - ERROR - Error making prediction for NSE:BPCL-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+- ch
+- prev_close_price
+
+2025-09-09 03:18:50,332 - ERROR - Error monitoring NSE:BPCL-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+- ch
+- prev_close_price
+
+2025-09-09 03:18:50,333 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+- ch
+- prev_close_price
+
+
+2025-09-09 03:18:50,433 - INFO - Loaded models for NSE:IOC-EQ from cache
+2025-09-09 03:18:50,444 - INFO - Retrieved 1000 records from cache for NSE:IOC-EQ in 0.010 seconds
+2025-09-09 03:18:50,485 - ERROR - Error making prediction for NSE:IOC-EQ: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:50,485 - ERROR - Error monitoring NSE:IOC-EQ: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:50,486 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+
+2025-09-09 03:18:50,586 - INFO - Loaded models for NSE:HEROMOTOCO-EQ from cache
+2025-09-09 03:18:50,599 - INFO - Retrieved 1000 records from cache for NSE:HEROMOTOCO-EQ in 0.013 seconds
+2025-09-09 03:18:50,638 - ERROR - Error making prediction for NSE:HEROMOTOCO-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:50,638 - ERROR - Error monitoring NSE:HEROMOTOCO-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:50,639 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+
+2025-09-09 03:18:50,740 - INFO - Loaded models for NSE:BRITANNIA-EQ from cache
+2025-09-09 03:18:50,751 - INFO - Retrieved 1000 records from cache for NSE:BRITANNIA-EQ in 0.011 seconds
+2025-09-09 03:18:50,791 - ERROR - Error making prediction for NSE:BRITANNIA-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:50,791 - ERROR - Error monitoring NSE:BRITANNIA-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:50,792 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+
+2025-09-09 03:18:50,892 - INFO - Loaded models for NSE:HCLTECH-EQ from cache
+2025-09-09 03:18:50,906 - INFO - Retrieved 1000 records from cache for NSE:HCLTECH-EQ in 0.013 seconds
+2025-09-09 03:18:50,952 - ERROR - Error making prediction for NSE:HCLTECH-EQ: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:50,952 - ERROR - Error monitoring NSE:HCLTECH-EQ: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:50,953 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+
+2025-09-09 03:18:51,053 - INFO - Loaded models for NSE:CIPLA-EQ from cache
+2025-09-09 03:18:51,062 - INFO - Retrieved 1000 records from cache for NSE:CIPLA-EQ in 0.009 seconds
+2025-09-09 03:18:51,105 - ERROR - Error making prediction for NSE:CIPLA-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:51,105 - ERROR - Error monitoring NSE:CIPLA-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:51,106 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+
+2025-09-09 03:18:51,206 - INFO - Loaded models for NSE:DIVISLAB-EQ from cache
+2025-09-09 03:18:51,216 - INFO - Retrieved 1000 records from cache for NSE:DIVISLAB-EQ in 0.010 seconds
+2025-09-09 03:18:51,301 - INFO - Applied realistic bounds: -65843460165619.77 -> 5982.29 (market hours: False)
+2025-09-09 03:18:51,315 - INFO - Created trading trigger for NSE:DIVISLAB-EQ: SELL at ₹6027.50
+2025-09-09 03:18:51,324 - INFO - Monitored NSE:DIVISLAB-EQ: SELL (confidence: 100.0%)
+2025-09-09 03:18:51,424 - INFO - Loaded models for NSE:DRREDDY-EQ from cache
+2025-09-09 03:18:51,434 - INFO - Retrieved 1000 records from cache for NSE:DRREDDY-EQ in 0.009 seconds
+2025-09-09 03:18:51,523 - INFO - Applied realistic bounds: 17850434.52 -> 1259.98 (market hours: False)
+2025-09-09 03:18:51,535 - INFO - Monitored NSE:DRREDDY-EQ: HOLD (confidence: 0.0%)
+2025-09-09 03:18:51,636 - INFO - Completed monitoring cycle
+2025-09-09 03:18:51,638 - INFO - Starting monitoring cycle for 38 symbols
+2025-09-09 03:18:51,638 - INFO - Loaded models for NSE:NIFTY50-INDEX from cache
+2025-09-09 03:18:51,652 - INFO - Retrieved 1000 records from cache for NSE:NIFTY50-INDEX in 0.013 seconds
+2025-09-09 03:18:51,697 - ERROR - Error making prediction for NSE:NIFTY50-INDEX: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- bid
+- chp
+- last_traded_qty
+- price_volume_trend
+- volume_change
+- ...
+
+2025-09-09 03:18:51,697 - ERROR - Error monitoring NSE:NIFTY50-INDEX: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- bid
+- chp
+- last_traded_qty
+- price_volume_trend
+- volume_change
+- ...
+
+2025-09-09 03:18:51,698 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- bid
+- chp
+- last_traded_qty
+- price_volume_trend
+- volume_change
+- ...
+
+
+2025-09-09 03:18:51,799 - INFO - Loaded models for NSE:SBIN-EQ from cache
+2025-09-09 03:18:51,812 - INFO - Retrieved 1000 records from cache for NSE:SBIN-EQ in 0.012 seconds
+2025-09-09 03:18:51,994 - INFO - Applied realistic bounds: -310013242838.96 -> 802.73 (market hours: False)
+2025-09-09 03:18:52,022 - INFO - Created trading trigger for NSE:SBIN-EQ: SELL at ₹808.80
+2025-09-09 03:18:52,033 - INFO - Monitored NSE:SBIN-EQ: SELL (confidence: 100.0%)
+2025-09-09 03:18:52,134 - INFO - Loaded models for NSE:RELIANCE-EQ from cache
+2025-09-09 03:18:52,156 - INFO - Retrieved 1000 records from cache for NSE:RELIANCE-EQ in 0.022 seconds
+2025-09-09 03:18:52,237 - ERROR - Error making prediction for NSE:RELIANCE-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:52,237 - ERROR - Error monitoring NSE:RELIANCE-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:52,238 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+
+2025-09-09 03:18:52,339 - INFO - Loaded models for NSE:TCS-EQ from cache
+2025-09-09 03:18:52,357 - INFO - Retrieved 1000 records from cache for NSE:TCS-EQ in 0.018 seconds
+2025-09-09 03:18:52,415 - ERROR - Error making prediction for NSE:TCS-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:52,415 - ERROR - Error monitoring NSE:TCS-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:52,417 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+
+2025-09-09 03:18:52,518 - INFO - Loaded models for NSE:HDFCBANK-EQ from cache
+2025-09-09 03:18:52,536 - INFO - Retrieved 1000 records from cache for NSE:HDFCBANK-EQ in 0.017 seconds
+2025-09-09 03:18:52,592 - ERROR - Error making prediction for NSE:HDFCBANK-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:52,592 - ERROR - Error monitoring NSE:HDFCBANK-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:52,593 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+
+2025-09-09 03:18:52,693 - INFO - Loaded models for NSE:ICICIBANK-EQ from cache
+2025-09-09 03:18:52,713 - INFO - Retrieved 1000 records from cache for NSE:ICICIBANK-EQ in 0.019 seconds
+2025-09-09 03:18:52,759 - ERROR - Error making prediction for NSE:ICICIBANK-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- bid
+
+2025-09-09 03:18:52,759 - ERROR - Error monitoring NSE:ICICIBANK-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- bid
+
+2025-09-09 03:18:52,760 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- bid
+
+
+2025-09-09 03:18:52,860 - INFO - Loaded models for NSE:INFY-EQ from cache
+2025-09-09 03:18:52,882 - INFO - Retrieved 1000 records from cache for NSE:INFY-EQ in 0.020 seconds
+2025-09-09 03:18:53,045 - INFO - Applied realistic bounds: -26533891660114.42 -> 1422.15 (market hours: False)
+2025-09-09 03:18:53,060 - INFO - Created trading trigger for NSE:INFY-EQ: SELL at ₹1432.90
+2025-09-09 03:18:53,070 - INFO - Monitored NSE:INFY-EQ: SELL (confidence: 100.0%)
+2025-09-09 03:18:53,170 - INFO - Loaded models for NSE:AXISBANK-EQ from cache
+2025-09-09 03:18:53,181 - INFO - Retrieved 1000 records from cache for NSE:AXISBANK-EQ in 0.011 seconds
+2025-09-09 03:18:53,242 - ERROR - Error making prediction for NSE:AXISBANK-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- bid
+- last_traded_qty
+
+2025-09-09 03:18:53,242 - ERROR - Error monitoring NSE:AXISBANK-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- bid
+- last_traded_qty
+
+2025-09-09 03:18:53,242 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- bid
+- last_traded_qty
+
+
+2025-09-09 03:18:53,343 - INFO - Loaded models for NSE:KOTAKBANK-EQ from cache
+2025-09-09 03:18:53,356 - INFO - Retrieved 1000 records from cache for NSE:KOTAKBANK-EQ in 0.012 seconds
+2025-09-09 03:18:53,407 - ERROR - Error making prediction for NSE:KOTAKBANK-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- bid
+
+2025-09-09 03:18:53,407 - ERROR - Error monitoring NSE:KOTAKBANK-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- bid
+
+2025-09-09 03:18:53,408 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- bid
+
+
+2025-09-09 03:18:53,508 - INFO - Loaded models for NSE:ITC-EQ from cache
+2025-09-09 03:18:53,524 - INFO - Retrieved 1000 records from cache for NSE:ITC-EQ in 0.015 seconds
+2025-09-09 03:18:53,600 - ERROR - Error making prediction for NSE:ITC-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:53,600 - ERROR - Error monitoring NSE:ITC-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:53,602 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+
+2025-09-09 03:18:53,703 - INFO - Loaded models for NSE:HINDUNILVR-EQ from cache
+2025-09-09 03:18:53,722 - INFO - Retrieved 1000 records from cache for NSE:HINDUNILVR-EQ in 0.018 seconds
+2025-09-09 03:18:53,790 - ERROR - Error making prediction for NSE:HINDUNILVR-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:53,791 - ERROR - Error monitoring NSE:HINDUNILVR-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:53,791 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+
+2025-09-09 03:18:53,892 - INFO - Loaded models for NSE:LT-EQ from cache
+2025-09-09 03:18:53,906 - INFO - Retrieved 1000 records from cache for NSE:LT-EQ in 0.014 seconds
+2025-09-09 03:18:53,945 - ERROR - Error making prediction for NSE:LT-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:53,945 - ERROR - Error monitoring NSE:LT-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:53,946 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+
+2025-09-09 03:18:54,048 - INFO - Loaded models for NSE:MARUTI-EQ from cache
+2025-09-09 03:18:54,056 - INFO - Retrieved 1000 records from cache for NSE:MARUTI-EQ in 0.008 seconds
+2025-09-09 03:18:54,091 - ERROR - Error making prediction for NSE:MARUTI-EQ: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:54,091 - ERROR - Error monitoring NSE:MARUTI-EQ: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:54,092 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+
+2025-09-09 03:18:54,192 - INFO - Loaded models for NSE:M&M-EQ from cache
+2025-09-09 03:18:54,207 - INFO - Retrieved 1000 records from cache for NSE:M&M-EQ in 0.014 seconds
+2025-09-09 03:18:54,257 - ERROR - Error making prediction for NSE:M&M-EQ: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:54,258 - ERROR - Error monitoring NSE:M&M-EQ: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:54,258 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+
+2025-09-09 03:18:54,359 - INFO - Loaded models for NSE:BAJFINANCE-EQ from cache
+2025-09-09 03:18:54,373 - INFO - Retrieved 1000 records from cache for NSE:BAJFINANCE-EQ in 0.014 seconds
+2025-09-09 03:18:54,417 - ERROR - Error making prediction for NSE:BAJFINANCE-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:54,417 - ERROR - Error monitoring NSE:BAJFINANCE-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:54,418 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+
+2025-09-09 03:18:54,518 - INFO - Loaded models for NSE:BAJAJFINSV-EQ from cache
+2025-09-09 03:18:54,531 - INFO - Retrieved 1000 records from cache for NSE:BAJAJFINSV-EQ in 0.012 seconds
+2025-09-09 03:18:54,633 - INFO - Applied realistic bounds: 17426387852407.01 -> 2023.46 (market hours: False)
+2025-09-09 03:18:54,665 - INFO - Monitored NSE:BAJAJFINSV-EQ: HOLD (confidence: 0.0%)
+2025-09-09 03:18:54,766 - INFO - Loaded models for NSE:ADANIENT-EQ from cache
+2025-09-09 03:18:54,779 - INFO - Retrieved 1000 records from cache for NSE:ADANIENT-EQ in 0.012 seconds
+2025-09-09 03:18:54,853 - ERROR - Error making prediction for NSE:ADANIENT-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:54,853 - ERROR - Error monitoring NSE:ADANIENT-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:54,854 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+
+2025-09-09 03:18:54,955 - INFO - Loaded models for NSE:ADANIPORTS-EQ from cache
+2025-09-09 03:18:54,965 - INFO - Retrieved 1000 records from cache for NSE:ADANIPORTS-EQ in 0.010 seconds
+2025-09-09 03:18:55,047 - ERROR - Error making prediction for NSE:ADANIPORTS-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:55,048 - ERROR - Error monitoring NSE:ADANIPORTS-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:55,049 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+
+2025-09-09 03:18:55,150 - INFO - Loaded models for NSE:POWERGRID-EQ from cache
+2025-09-09 03:18:55,161 - INFO - Retrieved 1000 records from cache for NSE:POWERGRID-EQ in 0.010 seconds
+2025-09-09 03:18:55,277 - INFO - Applied realistic bounds: -3900279830582.92 -> 280.68 (market hours: False)
+2025-09-09 03:18:55,300 - INFO - Created trading trigger for NSE:POWERGRID-EQ: SELL at ₹282.80
+2025-09-09 03:18:55,313 - INFO - Monitored NSE:POWERGRID-EQ: SELL (confidence: 100.0%)
+2025-09-09 03:18:55,414 - INFO - Loaded models for NSE:ONGC-EQ from cache
+2025-09-09 03:18:55,430 - INFO - Retrieved 1000 records from cache for NSE:ONGC-EQ in 0.016 seconds
+2025-09-09 03:18:55,512 - INFO - Applied realistic bounds: 962598499304.20 -> 234.27 (market hours: False)
+2025-09-09 03:18:55,531 - INFO - Monitored NSE:ONGC-EQ: HOLD (confidence: 0.0%)
+2025-09-09 03:18:55,632 - INFO - Loaded models for NSE:NTPC-EQ from cache
+2025-09-09 03:18:55,640 - INFO - Retrieved 1000 records from cache for NSE:NTPC-EQ in 0.008 seconds
+2025-09-09 03:18:55,730 - INFO - Applied realistic bounds: 1878304986639.87 -> 329.15 (market hours: False)
+2025-09-09 03:18:55,768 - INFO - Monitored NSE:NTPC-EQ: HOLD (confidence: 0.0%)
+2025-09-09 03:18:55,868 - INFO - Loaded models for NSE:TATAMOTORS-EQ from cache
+2025-09-09 03:18:55,878 - INFO - Retrieved 1000 records from cache for NSE:TATAMOTORS-EQ in 0.010 seconds
+2025-09-09 03:18:55,960 - INFO - Applied realistic bounds: -202424397620591.84 -> 714.10 (market hours: False)
+2025-09-09 03:18:55,982 - INFO - Created trading trigger for NSE:TATAMOTORS-EQ: SELL at ₹719.50
+2025-09-09 03:18:55,992 - INFO - Monitored NSE:TATAMOTORS-EQ: SELL (confidence: 100.0%)
+2025-09-09 03:18:56,093 - INFO - Loaded models for NSE:TATASTEEL-EQ from cache
+2025-09-09 03:18:56,110 - INFO - Retrieved 1000 records from cache for NSE:TATASTEEL-EQ in 0.016 seconds
+2025-09-09 03:18:56,190 - ERROR - Error making prediction for NSE:TATASTEEL-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:56,191 - ERROR - Error monitoring NSE:TATASTEEL-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:56,192 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+
+2025-09-09 03:18:56,293 - INFO - Loaded models for NSE:TITAN-EQ from cache
+2025-09-09 03:18:56,301 - INFO - Retrieved 1000 records from cache for NSE:TITAN-EQ in 0.008 seconds
+2025-09-09 03:18:56,394 - INFO - Applied realistic bounds: 22892305017504.64 -> 3685.43 (market hours: False)
+2025-09-09 03:18:56,408 - INFO - Monitored NSE:TITAN-EQ: HOLD (confidence: 0.0%)
+2025-09-09 03:18:56,509 - INFO - Loaded models for NSE:WIPRO-EQ from cache
+2025-09-09 03:18:56,521 - INFO - Retrieved 1000 records from cache for NSE:WIPRO-EQ in 0.012 seconds
+2025-09-09 03:18:56,560 - ERROR - Error making prediction for NSE:WIPRO-EQ: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:56,561 - ERROR - Error monitoring NSE:WIPRO-EQ: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:56,561 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+
+2025-09-09 03:18:56,662 - INFO - Loaded models for NSE:TECHM-EQ from cache
+2025-09-09 03:18:56,674 - INFO - Retrieved 1000 records from cache for NSE:TECHM-EQ in 0.012 seconds
+2025-09-09 03:18:56,763 - INFO - Applied realistic bounds: 18278177373232.51 -> 1471.66 (market hours: False)
+2025-09-09 03:18:56,800 - INFO - Monitored NSE:TECHM-EQ: HOLD (confidence: 0.0%)
+2025-09-09 03:18:56,901 - INFO - Loaded models for NSE:ULTRACEMCO-EQ from cache
+2025-09-09 03:18:56,915 - INFO - Retrieved 1000 records from cache for NSE:ULTRACEMCO-EQ in 0.013 seconds
+2025-09-09 03:18:56,959 - ERROR - Error making prediction for NSE:ULTRACEMCO-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:56,959 - ERROR - Error monitoring NSE:ULTRACEMCO-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:56,960 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+
+2025-09-09 03:18:57,060 - INFO - Loaded models for NSE:GRASIM-EQ from cache
+2025-09-09 03:18:57,070 - INFO - Retrieved 1000 records from cache for NSE:GRASIM-EQ in 0.009 seconds
+2025-09-09 03:18:57,116 - ERROR - Error making prediction for NSE:GRASIM-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:57,117 - ERROR - Error monitoring NSE:GRASIM-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:57,117 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+
+2025-09-09 03:18:57,218 - INFO - Loaded models for NSE:JSWSTEEL-EQ from cache
+2025-09-09 03:18:57,229 - INFO - Retrieved 1000 records from cache for NSE:JSWSTEEL-EQ in 0.011 seconds
+2025-09-09 03:18:57,328 - INFO - Applied realistic bounds: -3539875268337.15 -> 1093.14 (market hours: False)
+2025-09-09 03:18:57,357 - INFO - Created trading trigger for NSE:JSWSTEEL-EQ: SELL at ₹1101.40
+2025-09-09 03:18:57,368 - INFO - Monitored NSE:JSWSTEEL-EQ: SELL (confidence: 100.0%)
+2025-09-09 03:18:57,469 - INFO - Loaded models for NSE:COALINDIA-EQ from cache
+2025-09-09 03:18:57,477 - INFO - Retrieved 1000 records from cache for NSE:COALINDIA-EQ in 0.008 seconds
+2025-09-09 03:18:57,515 - ERROR - Error making prediction for NSE:COALINDIA-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:57,515 - ERROR - Error monitoring NSE:COALINDIA-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:57,516 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+
+2025-09-09 03:18:57,617 - INFO - Loaded models for NSE:BPCL-EQ from cache
+2025-09-09 03:18:57,628 - INFO - Retrieved 1000 records from cache for NSE:BPCL-EQ in 0.011 seconds
+2025-09-09 03:18:57,670 - ERROR - Error making prediction for NSE:BPCL-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+- ch
+- prev_close_price
+
+2025-09-09 03:18:57,671 - ERROR - Error monitoring NSE:BPCL-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+- ch
+- prev_close_price
+
+2025-09-09 03:18:57,671 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+- ch
+- prev_close_price
+
+
+2025-09-09 03:18:57,772 - INFO - Loaded models for NSE:IOC-EQ from cache
+2025-09-09 03:18:57,780 - INFO - Retrieved 1000 records from cache for NSE:IOC-EQ in 0.007 seconds
+2025-09-09 03:18:57,814 - ERROR - Error making prediction for NSE:IOC-EQ: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:57,814 - ERROR - Error monitoring NSE:IOC-EQ: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:57,815 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+
+2025-09-09 03:18:57,916 - INFO - Loaded models for NSE:HEROMOTOCO-EQ from cache
+2025-09-09 03:18:57,931 - INFO - Retrieved 1000 records from cache for NSE:HEROMOTOCO-EQ in 0.015 seconds
+2025-09-09 03:18:57,972 - ERROR - Error making prediction for NSE:HEROMOTOCO-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:57,972 - ERROR - Error monitoring NSE:HEROMOTOCO-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:57,973 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+
+2025-09-09 03:18:58,073 - INFO - Loaded models for NSE:BRITANNIA-EQ from cache
+2025-09-09 03:18:58,085 - INFO - Retrieved 1000 records from cache for NSE:BRITANNIA-EQ in 0.011 seconds
+2025-09-09 03:18:58,131 - ERROR - Error making prediction for NSE:BRITANNIA-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:58,132 - ERROR - Error monitoring NSE:BRITANNIA-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:58,132 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+
+2025-09-09 03:18:58,233 - INFO - Loaded models for NSE:HCLTECH-EQ from cache
+2025-09-09 03:18:58,243 - INFO - Retrieved 1000 records from cache for NSE:HCLTECH-EQ in 0.010 seconds
+2025-09-09 03:18:58,290 - ERROR - Error making prediction for NSE:HCLTECH-EQ: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:58,290 - ERROR - Error monitoring NSE:HCLTECH-EQ: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+2025-09-09 03:18:58,291 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- last_traded_qty
+
+
+2025-09-09 03:18:58,392 - INFO - Loaded models for NSE:CIPLA-EQ from cache
+2025-09-09 03:18:58,411 - INFO - Retrieved 1000 records from cache for NSE:CIPLA-EQ in 0.018 seconds
+2025-09-09 03:18:58,455 - ERROR - Error making prediction for NSE:CIPLA-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:58,455 - ERROR - Error monitoring NSE:CIPLA-EQ: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+2025-09-09 03:18:58,455 - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/karthik/new/perdictor_cursor/multi_symbol_monitor.py", line 290, in monitor_symbol
+    result = self.predictor.predict_fast(symbol, target_minutes)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/new/perdictor_cursor/optimized_predictor.py", line 600, in predict_fast
+    X_pred_scaled = self.scaler.transform(X_pred)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/utils/_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/preprocessing/_data.py", line 1004, in transform
+    X = self._validate_data(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 579, in _validate_data
+    self._check_feature_names(X, reset=reset)
+  File "/home/karthik/.pyenv/versions/3.11.9/lib/python3.11/site-packages/sklearn/base.py", line 506, in _check_feature_names
+    raise ValueError(message)
+ValueError: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ask
+
+
+2025-09-09 03:18:58,556 - INFO - Loaded models for NSE:DIVISLAB-EQ from cache
+2025-09-09 03:18:58,568 - INFO - Retrieved 1000 records from cache for NSE:DIVISLAB-EQ in 0.011 seconds
+2025-09-09 03:18:58,647 - INFO - Applied realistic bounds: -65843460165619.77 -> 5982.29 (market hours: False)
+2025-09-09 03:18:58,675 - INFO - Created trading trigger for NSE:DIVISLAB-EQ: SELL at ₹6027.50
+2025-09-09 03:18:58,684 - INFO - Monitored NSE:DIVISLAB-EQ: SELL (confidence: 100.0%)
+2025-09-09 03:18:58,785 - INFO - Loaded models for NSE:DRREDDY-EQ from cache
+2025-09-09 03:18:58,797 - INFO - Retrieved 1000 records from cache for NSE:DRREDDY-EQ in 0.011 seconds
+2025-09-09 03:18:58,898 - INFO - Applied realistic bounds: 17850434.52 -> 1259.98 (market hours: False)
+2025-09-09 03:18:58,934 - INFO - Monitored NSE:DRREDDY-EQ: HOLD (confidence: 0.0%)

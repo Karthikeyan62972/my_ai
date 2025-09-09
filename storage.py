@@ -39,9 +39,8 @@ INDEXES = [
 @contextmanager
 def db_conn():
     conn = sqlite3.connect(DB_PATH, timeout=30)
-    conn.execute("PRAGMA journal_mode=WAL")
-    conn.execute("PRAGMA synchronous=NORMAL")
     try:
+        # Skip all PRAGMA statements to avoid disk I/O errors
         yield conn
         conn.commit()
     finally:

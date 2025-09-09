@@ -1,0 +1,20 @@
+2025-09-09 00:42:28,510 - INFO - Starting fast training and prediction for NSE:RELIANCE-EQ
+2025-09-09 00:42:28,655 - INFO - Prepared training data: 1985 samples, 29 features
+2025-09-09 00:42:28,953 - INFO - Trained random_forest model with MAE: 0.1761
+2025-09-09 00:42:28,976 - INFO - Trained linear_regression model with MAE: 0.2343
+2025-09-09 00:42:28,993 - INFO - Trained ridge model with MAE: 0.2355
+2025-09-09 00:42:29,467 - INFO - Trained xgboost model with MAE: 0.1671
+2025-09-09 00:42:29,501 - INFO - Fast training completed. Scores: {'random_forest': 0.17610998703906247, 'linear_regression': 0.23428837512567, 'ridge': 0.23551786027272717, 'xgboost': 0.16706818472528057}
+2025-09-09 00:42:29,586 - WARNING - Applied realistic bounds: 1194.10 -> 1358.71
+2025-09-09 00:43:34,451 - INFO - Loaded models for NSE:RELIANCE-EQ
+2025-09-09 00:43:34,589 - WARNING - Applied realistic bounds: 1194.10 -> 1358.71
+2025-09-09 00:43:44,929 - INFO - Loaded models for NSE:RELIANCE-EQ
+2025-09-09 00:43:45,067 - WARNING - Applied realistic bounds: 1194.10 -> 1358.71
+2025-09-09 00:44:50,153 - INFO - Loaded models for NSE:RELIANCE-EQ
+2025-09-09 00:44:50,274 - WARNING - Applied realistic bounds: 1194.10 -> 1358.71
+2025-09-09 00:45:36,714 - INFO - Loaded models for NSE:RELIANCE-EQ
+2025-09-09 00:45:36,732 - INFO - Fetched 3 recent records for NSE:RELIANCE-EQ
+2025-09-09 00:45:36,811 - WARNING - Applied realistic bounds: 1080.50 -> 1357.82
+2025-09-09 00:45:41,177 - INFO - Loaded models for NSE:RELIANCE-EQ
+2025-09-09 00:45:41,200 - INFO - Fetched 4 recent records for NSE:RELIANCE-EQ
+2025-09-09 00:45:41,277 - WARNING - Applied realistic bounds: 1079.41 -> 1357.82

@@ -1,0 +1,120 @@
+2025-09-07 22:05:15 | INFO     | mltrader | [INIT] DB at /home/karthik/market.db
+2025-09-07 22:05:15 | INFO     | mltrader | [INIT] Symbols: ['NSE:NIFTY50-INDEX', 'NSE:SBIN-EQ', 'NSE:RELIANCE-EQ', 'NSE:TCS-EQ', 'NSE:HDFCBANK-EQ', 'NSE:ICICIBANK-EQ', 'NSE:INFY-EQ', 'NSE:AXISBANK-EQ', 'NSE:KOTAKBANK-EQ', 'NSE:ITC-EQ', 'NSE:HINDUNILVR-EQ', 'NSE:LT-EQ', 'NSE:MARUTI-EQ', 'NSE:M&M-EQ', 'NSE:BAJFINANCE-EQ', 'NSE:BAJAJFINSV-EQ', 'NSE:ADANIENT-EQ', 'NSE:ADANIPORTS-EQ', 'NSE:POWERGRID-EQ', 'NSE:ONGC-EQ', 'NSE:NTPC-EQ', 'NSE:TATAMOTORS-EQ', 'NSE:TATASTEEL-EQ', 'NSE:TITAN-EQ', 'NSE:WIPRO-EQ', 'NSE:TECHM-EQ', 'NSE:ULTRACEMCO-EQ', 'NSE:GRASIM-EQ', 'NSE:JSWSTEEL-EQ', 'NSE:COALINDIA-EQ', 'NSE:BPCL-EQ', 'NSE:IOC-EQ', 'NSE:HEROMOTOCO-EQ', 'NSE:BRITANNIA-EQ', 'NSE:HCLTECH-EQ', 'NSE:CIPLA-EQ', 'NSE:DIVISLAB-EQ', 'NSE:DRREDDY-EQ']
+2025-09-07 22:05:15 | INFO     | mltrader | [RUN MODE] DRY_RUN=True ALLOW_SHORT=False
+2025-09-07 22:05:15 | INFO     | mltrader | [AUTH] Ensuring tokens…
+2025-09-07 22:05:15 | INFO     | mltrader | [AUTH] OK.
+2025-09-07 22:05:15 | INFO     | mltrader | [WS ctrl] {'type': 'cn', 'code': 200, 'message': 'Authentication done', 's': 'ok'}
+2025-09-07 22:05:15 | INFO     | mltrader | [WS ctrl] {'type': 'ful', 'code': 200, 'message': 'Full Mode On', 's': 'ok'}
+2025-09-07 22:05:17 | INFO     | mltrader | [WS] Connected. Subscribing…
+2025-09-07 22:05:17 | INFO     | mltrader | [WS] Subscribed.
+2025-09-07 22:11:57 | INFO     | mltrader | [INIT] DB at /home/karthik/market.db
+2025-09-07 22:11:57 | INFO     | mltrader | [INIT] Symbols: ['NSE:NIFTY50-INDEX', 'NSE:SBIN-EQ', 'NSE:RELIANCE-EQ', 'NSE:TCS-EQ', 'NSE:HDFCBANK-EQ', 'NSE:ICICIBANK-EQ', 'NSE:INFY-EQ', 'NSE:AXISBANK-EQ', 'NSE:KOTAKBANK-EQ', 'NSE:ITC-EQ', 'NSE:HINDUNILVR-EQ', 'NSE:LT-EQ', 'NSE:MARUTI-EQ', 'NSE:M&M-EQ', 'NSE:BAJFINANCE-EQ', 'NSE:BAJAJFINSV-EQ', 'NSE:ADANIENT-EQ', 'NSE:ADANIPORTS-EQ', 'NSE:POWERGRID-EQ', 'NSE:ONGC-EQ', 'NSE:NTPC-EQ', 'NSE:TATAMOTORS-EQ', 'NSE:TATASTEEL-EQ', 'NSE:TITAN-EQ', 'NSE:WIPRO-EQ', 'NSE:TECHM-EQ', 'NSE:ULTRACEMCO-EQ', 'NSE:GRASIM-EQ', 'NSE:JSWSTEEL-EQ', 'NSE:COALINDIA-EQ', 'NSE:BPCL-EQ', 'NSE:IOC-EQ', 'NSE:HEROMOTOCO-EQ', 'NSE:BRITANNIA-EQ', 'NSE:HCLTECH-EQ', 'NSE:CIPLA-EQ', 'NSE:DIVISLAB-EQ', 'NSE:DRREDDY-EQ']
+2025-09-07 22:11:57 | INFO     | mltrader | [RUN MODE] DRY_RUN=True ALLOW_SHORT=False
+2025-09-07 22:11:57 | INFO     | mltrader | [AUTH] Ensuring tokens…
+2025-09-07 22:11:57 | INFO     | mltrader | [AUTH] OK.
+2025-09-07 22:11:58 | INFO     | mltrader | [WS ctrl] {'type': 'cn', 'code': 200, 'message': 'Authentication done', 's': 'ok'}
+2025-09-07 22:11:58 | INFO     | mltrader | [WS ctrl] {'type': 'ful', 'code': 200, 'message': 'Full Mode On', 's': 'ok'}
+2025-09-07 22:11:59 | INFO     | mltrader | [WS] Connected. Preparing subscription…
+2025-09-07 22:11:59 | INFO     | mltrader | [WS sub] Attempting subscribe of 38 symbols
+2025-09-07 22:11:59 | INFO     | mltrader | [WS sub] Subscribed to all 38 symbols.
+2025-09-07 22:12:00 | INFO     | mltrader | [WS] Subscribed.
+2025-09-07 22:15:51 | INFO     | mltrader | [INIT] DB at /home/karthik/market.db
+2025-09-07 22:15:51 | INFO     | mltrader | [INIT] Symbols: ['NSE:NIFTY50-INDEX', 'NSE:SBIN-EQ', 'NSE:RELIANCE-EQ', 'NSE:TCS-EQ', 'NSE:HDFCBANK-EQ', 'NSE:ICICIBANK-EQ', 'NSE:INFY-EQ', 'NSE:AXISBANK-EQ', 'NSE:KOTAKBANK-EQ', 'NSE:ITC-EQ', 'NSE:HINDUNILVR-EQ', 'NSE:LT-EQ', 'NSE:MARUTI-EQ', 'NSE:M&M-EQ', 'NSE:BAJFINANCE-EQ', 'NSE:BAJAJFINSV-EQ', 'NSE:ADANIENT-EQ', 'NSE:ADANIPORTS-EQ', 'NSE:POWERGRID-EQ', 'NSE:ONGC-EQ', 'NSE:NTPC-EQ', 'NSE:TATAMOTORS-EQ', 'NSE:TATASTEEL-EQ', 'NSE:TITAN-EQ', 'NSE:WIPRO-EQ', 'NSE:TECHM-EQ', 'NSE:ULTRACEMCO-EQ', 'NSE:GRASIM-EQ', 'NSE:JSWSTEEL-EQ', 'NSE:COALINDIA-EQ', 'NSE:BPCL-EQ', 'NSE:IOC-EQ', 'NSE:HEROMOTOCO-EQ', 'NSE:BRITANNIA-EQ', 'NSE:HCLTECH-EQ', 'NSE:CIPLA-EQ', 'NSE:DIVISLAB-EQ', 'NSE:DRREDDY-EQ']
+2025-09-07 22:15:51 | INFO     | mltrader | [RUN MODE] DRY_RUN=True ALLOW_SHORT=False
+2025-09-07 22:15:51 | INFO     | mltrader | [AUTH] Ensuring tokens…
+2025-09-07 22:15:51 | INFO     | mltrader | [AUTH] OK.
+2025-09-07 22:15:51 | INFO     | mltrader | [WS ctrl] {'type': 'cn', 'code': 200, 'message': 'Authentication done', 's': 'ok'}
+2025-09-07 22:15:51 | INFO     | mltrader | [WS ctrl] {'type': 'ful', 'code': 200, 'message': 'Full Mode On', 's': 'ok'}
+2025-09-07 22:15:53 | INFO     | mltrader | [WS] Connected. Subscribing per symbol…
+2025-09-07 22:15:53 | INFO     | mltrader | [WS sub] OK: NSE:NIFTY50-INDEX
+2025-09-07 22:15:54 | INFO     | mltrader | [WS ctrl] {'type': 'sub', 'code': 200, 'message': 'Subscribed', 's': 'ok'}
+2025-09-07 22:15:54 | INFO     | mltrader | [WS ingest] First tick for NSE:NIFTY50-INDEX: ltp=24741.0
+2025-09-07 22:15:54 | INFO     | mltrader | [WS sub] OK: NSE:SBIN-EQ
+2025-09-07 22:15:54 | INFO     | mltrader | [WS sub] OK: NSE:RELIANCE-EQ
+2025-09-07 22:15:54 | INFO     | mltrader | [WS sub] OK: NSE:TCS-EQ
+2025-09-07 22:15:54 | INFO     | mltrader | [WS sub] OK: NSE:HDFCBANK-EQ
+2025-09-07 22:15:54 | INFO     | mltrader | [WS sub] OK: NSE:ICICIBANK-EQ
+2025-09-07 22:15:54 | INFO     | mltrader | [WS sub] OK: NSE:INFY-EQ
+2025-09-07 22:15:55 | INFO     | mltrader | [WS sub] OK: NSE:AXISBANK-EQ
+2025-09-07 22:15:55 | INFO     | mltrader | [WS sub] OK: NSE:KOTAKBANK-EQ
+2025-09-07 22:15:55 | INFO     | mltrader | [WS sub] OK: NSE:ITC-EQ
+2025-09-07 22:15:55 | INFO     | mltrader | [WS sub] OK: NSE:HINDUNILVR-EQ
+2025-09-07 22:15:55 | INFO     | mltrader | [WS sub] OK: NSE:LT-EQ
+2025-09-07 22:15:55 | INFO     | mltrader | [WS sub] OK: NSE:MARUTI-EQ
+2025-09-07 22:15:56 | ERROR    | mltrader | [WS error] {'code': -300, 'message': 'Please provide a valid symbol', 's': 'error', 'type': 'sub', 'invalid_symbols': ['NSE:M%26M-EQ']}
+2025-09-07 22:15:56 | INFO     | mltrader | [WS sub] OK: NSE:M%26M-EQ
+2025-09-07 22:15:56 | INFO     | mltrader | [WS sub] OK: NSE:BAJFINANCE-EQ
+2025-09-07 22:15:56 | INFO     | mltrader | [WS sub] OK: NSE:BAJAJFINSV-EQ
+2025-09-07 22:15:56 | INFO     | mltrader | [WS sub] OK: NSE:ADANIENT-EQ
+2025-09-07 22:15:56 | INFO     | mltrader | [WS sub] OK: NSE:ADANIPORTS-EQ
+2025-09-07 22:15:56 | INFO     | mltrader | [WS sub] OK: NSE:POWERGRID-EQ
+2025-09-07 22:15:56 | INFO     | mltrader | [WS sub] OK: NSE:ONGC-EQ
+2025-09-07 22:15:57 | INFO     | mltrader | [WS sub] OK: NSE:NTPC-EQ
+2025-09-07 22:15:57 | INFO     | mltrader | [WS sub] OK: NSE:TATAMOTORS-EQ
+2025-09-07 22:15:57 | INFO     | mltrader | [WS sub] OK: NSE:TATASTEEL-EQ
+2025-09-07 22:15:57 | INFO     | mltrader | [WS sub] OK: NSE:TITAN-EQ
+2025-09-07 22:15:57 | INFO     | mltrader | [WS sub] OK: NSE:WIPRO-EQ
+2025-09-07 22:15:57 | INFO     | mltrader | [WS sub] OK: NSE:TECHM-EQ
+2025-09-07 22:15:58 | INFO     | mltrader | [WS sub] OK: NSE:ULTRACEMCO-EQ
+2025-09-07 22:15:58 | INFO     | mltrader | [WS sub] OK: NSE:GRASIM-EQ
+2025-09-07 22:15:58 | INFO     | mltrader | [WS sub] OK: NSE:JSWSTEEL-EQ
+2025-09-07 22:15:58 | INFO     | mltrader | [WS sub] OK: NSE:COALINDIA-EQ
+2025-09-07 22:15:58 | INFO     | mltrader | [WS sub] OK: NSE:BPCL-EQ
+2025-09-07 22:15:58 | INFO     | mltrader | [WS sub] OK: NSE:IOC-EQ
+2025-09-07 22:15:58 | INFO     | mltrader | [WS sub] OK: NSE:HEROMOTOCO-EQ
+2025-09-07 22:15:59 | INFO     | mltrader | [WS sub] OK: NSE:BRITANNIA-EQ
+2025-09-07 22:15:59 | INFO     | mltrader | [WS sub] OK: NSE:HCLTECH-EQ
+2025-09-07 22:15:59 | INFO     | mltrader | [WS sub] OK: NSE:CIPLA-EQ
+2025-09-07 22:15:59 | INFO     | mltrader | [WS sub] OK: NSE:DIVISLAB-EQ
+2025-09-07 22:15:59 | INFO     | mltrader | [WS sub] OK: NSE:DRREDDY-EQ
+2025-09-07 22:15:59 | INFO     | mltrader | [WS] Subscribed to all 38 symbols.
+2025-09-07 22:15:59 | INFO     | mltrader | [WS] Subscription phase finished. OK=38, SKIPPED=0
+2025-09-07 22:16:43 | INFO     | mltrader | [INIT] DB at /home/karthik/market.db
+2025-09-07 22:16:43 | INFO     | mltrader | [INIT] Symbols: ['NSE:NIFTY50-INDEX', 'NSE:SBIN-EQ', 'NSE:RELIANCE-EQ', 'NSE:TCS-EQ', 'NSE:HDFCBANK-EQ', 'NSE:ICICIBANK-EQ', 'NSE:INFY-EQ', 'NSE:AXISBANK-EQ', 'NSE:KOTAKBANK-EQ', 'NSE:ITC-EQ', 'NSE:HINDUNILVR-EQ', 'NSE:LT-EQ', 'NSE:MARUTI-EQ', 'NSE:BAJFINANCE-EQ', 'NSE:BAJAJFINSV-EQ', 'NSE:ADANIENT-EQ', 'NSE:ADANIPORTS-EQ', 'NSE:POWERGRID-EQ', 'NSE:ONGC-EQ', 'NSE:NTPC-EQ', 'NSE:TATAMOTORS-EQ', 'NSE:TATASTEEL-EQ', 'NSE:TITAN-EQ', 'NSE:WIPRO-EQ', 'NSE:TECHM-EQ', 'NSE:ULTRACEMCO-EQ', 'NSE:GRASIM-EQ', 'NSE:JSWSTEEL-EQ', 'NSE:COALINDIA-EQ', 'NSE:BPCL-EQ', 'NSE:IOC-EQ', 'NSE:HEROMOTOCO-EQ', 'NSE:BRITANNIA-EQ', 'NSE:HCLTECH-EQ', 'NSE:CIPLA-EQ', 'NSE:DIVISLAB-EQ', 'NSE:DRREDDY-EQ']
+2025-09-07 22:16:43 | INFO     | mltrader | [RUN MODE] DRY_RUN=True ALLOW_SHORT=False
+2025-09-07 22:16:43 | INFO     | mltrader | [AUTH] Ensuring tokens…
+2025-09-07 22:16:43 | INFO     | mltrader | [AUTH] OK.
+2025-09-07 22:16:44 | INFO     | mltrader | [WS ctrl] {'type': 'cn', 'code': 200, 'message': 'Authentication done', 's': 'ok'}
+2025-09-07 22:16:44 | INFO     | mltrader | [WS ctrl] {'type': 'ful', 'code': 200, 'message': 'Full Mode On', 's': 'ok'}
+2025-09-07 22:16:45 | INFO     | mltrader | [WS] Connected. Subscribing per symbol…
+2025-09-07 22:16:46 | INFO     | mltrader | [WS sub] OK: NSE:NIFTY50-INDEX
+2025-09-07 22:16:46 | INFO     | mltrader | [WS ctrl] {'type': 'sub', 'code': 200, 'message': 'Subscribed', 's': 'ok'}
+2025-09-07 22:16:46 | INFO     | mltrader | [WS ingest] First tick for NSE:NIFTY50-INDEX: ltp=24741.0
+2025-09-07 22:16:46 | INFO     | mltrader | [WS sub] OK: NSE:SBIN-EQ
+2025-09-07 22:16:46 | INFO     | mltrader | [WS sub] OK: NSE:RELIANCE-EQ
+2025-09-07 22:16:47 | INFO     | mltrader | [WS sub] OK: NSE:TCS-EQ
+2025-09-07 22:16:47 | INFO     | mltrader | [WS sub] OK: NSE:HDFCBANK-EQ
+2025-09-07 22:16:47 | INFO     | mltrader | [WS sub] OK: NSE:ICICIBANK-EQ
+2025-09-07 22:16:47 | INFO     | mltrader | [WS sub] OK: NSE:INFY-EQ
+2025-09-07 22:16:47 | INFO     | mltrader | [WS sub] OK: NSE:AXISBANK-EQ
+2025-09-07 22:16:47 | INFO     | mltrader | [WS sub] OK: NSE:KOTAKBANK-EQ
+2025-09-07 22:16:48 | INFO     | mltrader | [WS sub] OK: NSE:ITC-EQ
+2025-09-07 22:16:48 | INFO     | mltrader | [WS sub] OK: NSE:HINDUNILVR-EQ
+2025-09-07 22:16:48 | INFO     | mltrader | [WS sub] OK: NSE:LT-EQ
+2025-09-07 22:16:48 | INFO     | mltrader | [WS sub] OK: NSE:MARUTI-EQ
+2025-09-07 22:16:48 | INFO     | mltrader | [WS sub] OK: NSE:BAJFINANCE-EQ
+2025-09-07 22:16:48 | INFO     | mltrader | [WS sub] OK: NSE:BAJAJFINSV-EQ
+2025-09-07 22:16:48 | INFO     | mltrader | [WS sub] OK: NSE:ADANIENT-EQ
+2025-09-07 22:16:49 | INFO     | mltrader | [WS sub] OK: NSE:ADANIPORTS-EQ
+2025-09-07 22:16:49 | INFO     | mltrader | [WS sub] OK: NSE:POWERGRID-EQ
+2025-09-07 22:16:49 | INFO     | mltrader | [WS sub] OK: NSE:ONGC-EQ
+2025-09-07 22:16:49 | INFO     | mltrader | [WS sub] OK: NSE:NTPC-EQ
+2025-09-07 22:16:49 | INFO     | mltrader | [WS sub] OK: NSE:TATAMOTORS-EQ
+2025-09-07 22:16:49 | INFO     | mltrader | [WS sub] OK: NSE:TATASTEEL-EQ
+2025-09-07 22:16:49 | INFO     | mltrader | [WS sub] OK: NSE:TITAN-EQ
+2025-09-07 22:16:50 | INFO     | mltrader | [WS sub] OK: NSE:WIPRO-EQ
+2025-09-07 22:16:50 | INFO     | mltrader | [WS sub] OK: NSE:TECHM-EQ
+2025-09-07 22:16:50 | INFO     | mltrader | [WS sub] OK: NSE:ULTRACEMCO-EQ
+2025-09-07 22:16:50 | INFO     | mltrader | [WS sub] OK: NSE:GRASIM-EQ
+2025-09-07 22:16:50 | INFO     | mltrader | [WS sub] OK: NSE:JSWSTEEL-EQ
+2025-09-07 22:16:50 | INFO     | mltrader | [WS sub] OK: NSE:COALINDIA-EQ
+2025-09-07 22:16:51 | INFO     | mltrader | [WS sub] OK: NSE:BPCL-EQ
+2025-09-07 22:16:51 | INFO     | mltrader | [WS sub] OK: NSE:IOC-EQ
+2025-09-07 22:16:51 | INFO     | mltrader | [WS sub] OK: NSE:HEROMOTOCO-EQ
+2025-09-07 22:16:51 | INFO     | mltrader | [WS sub] OK: NSE:BRITANNIA-EQ
+2025-09-07 22:16:51 | INFO     | mltrader | [WS sub] OK: NSE:HCLTECH-EQ
+2025-09-07 22:16:51 | INFO     | mltrader | [WS sub] OK: NSE:CIPLA-EQ
+2025-09-07 22:16:51 | INFO     | mltrader | [WS sub] OK: NSE:DIVISLAB-EQ
+2025-09-07 22:16:51 | INFO     | mltrader | [WS sub] OK: NSE:DRREDDY-EQ
+2025-09-07 22:16:51 | INFO     | mltrader | [WS] Subscribed to all 37 symbols.
+2025-09-07 22:16:52 | INFO     | mltrader | [WS] Subscription phase finished. OK=37, SKIPPED=0

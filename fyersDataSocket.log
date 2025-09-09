@@ -2,3 +2,16 @@
 {"level":"ERROR","location":"[__symbol_conversion:1352] data_ws","message":{"code":-300,"message":"Please provide a valid symbol","s":"error","type":"sub","invalid_symbols":["NSE:BANKNIFTY-IND\",","NSE:HDFC-EQ","NSE:DRREDDY-E"]},"timestamp":"2025-09-03 00:23:07,043+0530","service":"FyersDataSocket"}
 {"level":"ERROR","location":"[__symbol_conversion:1352] data_ws","message":{"code":-300,"message":"Please provide a valid symbol","s":"error","type":"sub","invalid_symbols":["NSE:BANKNIFTY-IND\",","NSE:HDFC-EQ","NSE:DRREDDY-E"]},"timestamp":"2025-09-03 00:24:43,472+0530","service":"FyersDataSocket"}
 {"level":"ERROR","location":"[__symbol_conversion:1352] data_ws","message":{"code":-300,"message":"Please provide a valid symbol","s":"error","type":"sub","invalid_symbols":["NSE:BANKNIFTY-IND"]},"timestamp":"2025-09-03 00:27:50,925+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"Connection to remote host was lost.","timestamp":"2025-09-08 12:05:07,086+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"[SSL: BAD_LENGTH] bad length (_ssl.c:2427)","timestamp":"2025-09-08 13:24:18,500+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"[SSL: BAD_LENGTH] bad length (_ssl.c:2427)","timestamp":"2025-09-08 13:41:36,299+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"[SSL: BAD_LENGTH] bad length (_ssl.c:2427)","timestamp":"2025-09-08 13:43:36,678+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"[SSL: BAD_LENGTH] bad length (_ssl.c:2427)","timestamp":"2025-09-08 13:51:07,551+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"Connection to remote host was lost.","timestamp":"2025-09-09 00:52:09,257+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"Connection to remote host was lost.","timestamp":"2025-09-09 01:15:23,314+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"Connection to remote host was lost.","timestamp":"2025-09-09 01:35:05,273+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"[SSL: BAD_LENGTH] bad length (_ssl.c:2427)","timestamp":"2025-09-09 01:54:16,080+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"Connection to remote host was lost.","timestamp":"2025-09-09 03:25:48,985+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"[SSL: BAD_LENGTH] bad length (_ssl.c:2427)","timestamp":"2025-09-09 10:11:58,835+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"[SSL: BAD_LENGTH] bad length (_ssl.c:2427)","timestamp":"2025-09-09 10:22:00,683+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"[SSL: BAD_LENGTH] bad length (_ssl.c:2427)","timestamp":"2025-09-09 11:02:14,501+0530","service":"FyersDataSocket"}

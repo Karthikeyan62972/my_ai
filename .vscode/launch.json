@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Predict DRREDDY 15m",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/intraday_pro.py",
+      "args": [
+        "--mode", "predict",
+        "--horizon-minutes", "15",
+        "--train-window-minutes", "0",
+        "--workers", "1",
+        "--symbol", "NSE:DRREDDY-EQ"
+      ],
+      "console": "integratedTerminal"
+    }
+  ]
+}
